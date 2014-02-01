@@ -28,7 +28,7 @@ def posts(path):
 
 @app.route('/daily/tag/<string:tag>/')
 def tag(tag):
-    tagged = [p for p in pages if tag in p.meta.get('tags', [])]
+    tagged = [p for p in pages if p.meta.get('tags') and tag in p.meta.get('tags', [])]
     return render_template('tag.html', pages=tagged, tag=tag)
 
 @app.route('/daily/<int:year>/<int:month>/<int:day>/<string:slug>/')
