@@ -2,6 +2,7 @@
 
 import sys
 import os
+import datetime
 
 from flask import Flask, render_template, url_for, request
 from flask_flatpages import FlatPages
@@ -19,6 +20,8 @@ freezer = Freezer(app)
 
 @app.route('/')
 def index():
+    global pages
+    pages = sorted(pages, key = lambda page:page.meta.get("date", datetime.datetime.strptime('1970-01-01', '%Y-%m-%d').date()), reverse = True )
     return render_template('index.html', pages=pages)
 
 @app.route('/daily/posts/<path:path>/')
