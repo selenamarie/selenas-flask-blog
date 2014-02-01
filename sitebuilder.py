@@ -17,25 +17,33 @@ pages = FlatPages(app)
 
 freezer = Freezer(app)
 
-
 @app.route('/')
 def index():
     return render_template('index.html', pages=pages)
 
-@app.route('/daily/?p=<string:id>')
+
+@app.route('/daily/?p=<int:id>')
 def id(id):
     ided = [p for p in pages if tag in p.meta.get('id', [])]
-    return render_template('post.html', pages=ided, id=id)
+    if len(ided) == 1:
+        return render_template('post.html', pages=ided[0], id=id)
 
 @app.route('/daily/posts/<path:path>/')
 def posts(path):
     post = pages.get_or_404(os.path.join('posts', path))
+    print post.meta
     return render_template('post.html', page=post)
 
 @app.route('/daily/tag/<string:tag>/')
 def tag(tag):
     tagged = [p for p in pages if tag in p.meta.get('tags', [])]
     return render_template('tag.html', pages=tagged, tag=tag)
+
+@app.route('/daily/<int:year>/<int:month>/<int:day>/<string:slug>/')
+def by_slug(year, month, day, slug):
+    slugged = [p for p in pages if slug in p.meta.get('slug', [])]
+    print len(slugged)
+    return render_template('post.html', page=slugged[0], slug=slug)
 
 @app.route('/daily/<path:path>/')
 def page(path):

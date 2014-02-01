@@ -1,6 +1,7 @@
 title: "2010 retrospective"
 id: 2385
 date: 2011-01-03 14:56:26
+slug: 2010-retrospective
 tags: 
 - 2009
 - retrospective
