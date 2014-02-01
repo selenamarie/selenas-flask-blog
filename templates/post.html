@@ -2,7 +2,7 @@
 
 {% block content %}
     <h2><a href="{{ request.path }}">{{ page.title }}</a></h2>
-    <i>posted on {{ page.date }}</i><br/>
+    <i>posted on {{ page.date.strftime('%b %d, %Y') }}</i><br/>
     <i>
         {% if page.meta.tags|length %}
             tags:
