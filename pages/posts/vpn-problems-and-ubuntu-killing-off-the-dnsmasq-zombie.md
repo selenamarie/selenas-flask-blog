@@ -1,10 +1,9 @@
 title: "VPN Problems and Ubuntu: killing off the dnsmasq zombie"
 id: 5027
 date: 2013-10-18 10:58:53
-tags:
-categories:
+tags: 
+categories: 
 - linux
-comments: true
 
 I've been having problems with VPN, DNS and Ubuntu for a year. But, I'm also pretty lazy when it comes to spending time on configuration. And configuring VPNs is like last on my list of ways I'd like to spend my time.
 
