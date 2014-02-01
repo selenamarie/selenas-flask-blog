@@ -4,7 +4,7 @@
     <h2><a href="{{ request.path }}">{{ page.title }}</a></h2>
     <i>posted on {{ page.date.strftime('%b %d, %Y') }}</i><br/>
     <i>
-        {% if page.meta.tags|length %}
+        {% if page.meta.tags and page.meta.tags|length %}
             tags:
             {% for page_tag in page.meta.tags %}
                 <a href="{{ url_for("tag", tag=page_tag) }}">{{ page_tag }}</a>
