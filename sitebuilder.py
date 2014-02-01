@@ -21,16 +21,6 @@ freezer = Freezer(app)
 def index():
     return render_template('index.html', pages=pages)
 
-@app.route('/daily/', methods=['GET'])
-def id():
-    page_id = request.args.get('p')
-    print page_id
-    ided = []
-    for p in pages:
-        if p.meta.get('id', None) and int(page_id) == p.meta.get('id'):
-            return render_template('post.html', page=p, id=page_id)
-    return render_template('page_not_found.html'), 404
-
 @app.route('/daily/posts/<path:path>/')
 def posts(path):
     post = pages.get_or_404(os.path.join('posts', path))
@@ -50,6 +40,15 @@ def by_slug(year, month, day, slug):
 def page(path):
     page = pages.get_or_404(path)
     return render_template('page.html', page=page)
+
+@app.route('/daily/', methods=['GET'])
+def id():
+    page_id = request.args.get('p')
+    ided = []
+    for p in pages:
+        if p.meta.get('id', None) and int(page_id) == p.meta.get('id'):
+            return render_template('post.html', page=p, id=page_id)
+    return render_template('page_not_found.html'), 404
 
 if __name__ == '__main__':
     if len(sys.argv) > 1 and sys.argv[1] == "build":
