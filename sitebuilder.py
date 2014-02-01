@@ -1,6 +1,7 @@
 #! /usr/bin/env pythnon
 
 import sys
+import os
 
 from flask import Flask, render_template, url_for
 from flask_flatpages import FlatPages
@@ -20,6 +21,16 @@ freezer = Freezer(app)
 @app.route('/')
 def index():
     return render_template('index.html', pages=pages)
+
+@app.route('/daily/?p=<string:id>')
+def id(id):
+    ided = [p for p in pages if tag in p.meta.get('id', [])]
+    return render_template('post.html', pages=ided, id=id)
+
+@app.route('/daily/posts/<path:path>/')
+def posts(path):
+    post = pages.get_or_404(os.path.join('posts', path))
+    return render_template('post.html', page=post)
 
 @app.route('/daily/tag/<string:tag>/')
 def tag(tag):
