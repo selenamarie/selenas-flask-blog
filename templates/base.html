@@ -5,11 +5,27 @@
     <title>My site</title>
 </head>
 <body>
-    <link href="static/selena.css" rel="stylesheet" type="text/css">
-    <h1><a href="{{ url_for("index") }}">My site</a></h1>
-{% block content %}
-    <p>Default content to be displayed</p>
-{% endblock content %}
+    <link href="/static/selena.css" rel="stylesheet" type="text/css">
+    <div id="page">
+        <h1><a href="{{ url_for("index") }}">Selena Deckelmann</a></h1>
+        <nav role="navigation" class="site-navigation main-navigation">
+            <h1 class="assistive-text">Menu</h1>
+            <div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+            <div class="menu-header-container">
+                <ul id="menu-header" class="menu">
+                <li id="menu-item-4882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4882"><a href="/daily/popular-writing/">Popular</a></li>
+                <li id="menu-item-3518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3518"><a href="/daily/speaking/">Speaking</a></li>
+                <li id="menu-item-3519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3519"><a href="/daily/conferences/">Conferences</a></li>
+                <li id="menu-item-3520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3520"><a href="/daily/devops/">DevOps</a></li>
+                <li id="menu-item-4704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4704"><a href="/daily/about/">About me</a></li>
+                </ul>
+            </div>
+        </nav><!-- .site-navigation .main-navigation -->
+    {% block content %}
+        <p>Default content to be displayed</p>
+    {% endblock content %}
+    </div>
 </body>
 </html>
 
