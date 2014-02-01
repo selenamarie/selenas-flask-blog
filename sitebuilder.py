@@ -21,17 +21,19 @@ freezer = Freezer(app)
 def index():
     return render_template('index.html', pages=pages)
 
-
-@app.route('/daily/?p=<int:id>')
-def id(id):
-    ided = [p for p in pages if tag in p.meta.get('id', [])]
-    if len(ided) == 1:
-        return render_template('post.html', pages=ided[0], id=id)
+@app.route('/daily/', methods=['GET'])
+def id():
+    page_id = request.args.get('p')
+    print page_id
+    ided = []
+    for p in pages:
+        if p.meta.get('id', None) and int(page_id) == p.meta.get('id'):
+            return render_template('post.html', page=p, id=page_id)
+    return render_template('page_not_found.html'), 404
 
 @app.route('/daily/posts/<path:path>/')
 def posts(path):
     post = pages.get_or_404(os.path.join('posts', path))
-    print post.meta
     return render_template('post.html', page=post)
 
 @app.route('/daily/tag/<string:tag>/')
@@ -42,7 +44,6 @@ def tag(tag):
 @app.route('/daily/<int:year>/<int:month>/<int:day>/<string:slug>/')
 def by_slug(year, month, day, slug):
     slugged = [p for p in pages if slug in p.meta.get('slug', [])]
-    print len(slugged)
     return render_template('post.html', page=slugged[0], slug=slug)
 
 @app.route('/daily/<path:path>/')
