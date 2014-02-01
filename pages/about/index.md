@@ -1,7 +1,8 @@
 title: About me
 date: 2006-09-25 20:58:08
 
-[<img src="/daily/wp-content/uploads/2006/09/image-1-300x225.jpg" alt="" title="selena" width="300" height="225" class="alignright size-medium wp-image-3634" />][1]
+[![](http://www.chesnok.com/daily/wp-content/uploads/2006/09/image-1-300x225.jpg "selena")](http://www.chesnok.com/daily/wp-content/uploads/2006/09/image-1.jpeg)
+
 
 Selena Deckelmann is a [major contributor to PostgreSQL][2] and a data architect at Mozilla. She's been involved with free and open source software since 1995 and began running conferences for PostgreSQL in 2007. In 2012, she founded [PyLadiesPDX][3], a portland chapter of [PyLadies][4]. She founded [Open Source Bridge][5], [Postgres Open][6] and speaks internationally about open source, databases and community. You can find her on twitter (@[selenamarie][7]) and on [her blog][8]. She also [keeps chickens][9] and gives a lot of [technical talks][10].
 
