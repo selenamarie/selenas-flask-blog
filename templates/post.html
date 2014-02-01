@@ -2,7 +2,16 @@
 
 {% block content %}
     <h2><a href="{{ request.path }}">{{ page.title }}</a></h2>
-    <i>posted on {{ page.date }}</i>
+    <i>posted on {{ page.date }}</i><br/>
+    <i>
+        {% if page.meta.tags|length %}
+            tags:
+            {% for page_tag in page.meta.tags %}
+                <a href="{{ url_for("tag", tag=page_tag) }}">{{ page_tag }}</a>
+            {% endfor %}
+        {% endif %}
+    </i><br/>
 
     {{ page.html|safe }}
+
 {% endblock content %}
