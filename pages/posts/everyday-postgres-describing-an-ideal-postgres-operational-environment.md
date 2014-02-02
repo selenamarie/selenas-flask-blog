@@ -3,6 +3,7 @@ slug: everyday-postgres-describing-an-ideal-postgres-operational-environment
 id: 5148
 date: 2014-01-30 17:11:22
 tags: 
+- everyday postgres
 categories: 
 - postgresql
 

@@ -3,6 +3,7 @@ slug: everyday-postgres-insert-with-select
 id: 5090
 date: 2013-11-19 08:04:50
 tags: 
+- everyday postgres
 categories: 
 - postgresql
 
