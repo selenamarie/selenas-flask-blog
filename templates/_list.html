@@ -1,7 +1,7 @@
 <ul>
 {% for page in pages %}
-    <li>
-        <a href="{{ url_for("page", path=page.path) }}">{{ page.title }}</a>
+    <p>
+        <a href="{{ url_for("page", path=page.path) }}">{{ page.title }}</a><br/>
     {% if page.meta.date %}
         <i>{{ page.meta.date.strftime('%b %d, %Y') }}</i>
     {% endif %}
@@ -12,12 +12,12 @@
         {% endfor %}
     {% endif %}
     {% if page.meta.categories and page.meta.categories|length %}
-        | Categories: 
+        Categories:
         {% for page_tag in page.meta.categories %}
             <a href="{{ url_for("tag", tag=page_tag) }}">{{ page_tag }}</a>
         {% endfor %}
     {% endif %}
-    </li>
+    </p>
 {% else %}
     <li>No page.</li>
 {% endfor %}

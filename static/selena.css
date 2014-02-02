@@ -539,7 +539,7 @@ body {
 /* The posts
 ------------------------------------------------------------- */
 .hentry {
-	margin: 0 0 40px;
+	margin: 0 0 0;
 }
 .hentry:before,
 .hentry:after {
@@ -550,18 +550,14 @@ body {
 	clear: both;
 }
 .entry-meta {
-	padding-top:25px;
-	background:url(images/line-pattern.png) repeat-x;
-	line-height:1.8em
+    font-size: .75em;
 }
 .sticky .entry-meta {
 	padding-top:10px;
 	background:none;
-	border-top:10px solid #09c
 }
 .entry-meta span {
 	display:block;
-	margin-bottom:5px;
 }
 .entry-meta span:before {
 	margin-right:5px;
