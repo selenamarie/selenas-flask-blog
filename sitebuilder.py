@@ -36,7 +36,7 @@ def tag(tag):
 
 @app.route('/daily/<int:year>/<int:month>/<int:day>/<string:slug>/')
 def by_slug(year, month, day, slug):
-    slugged = [p for p in pages if p.meta.get('slug') and slug in p.meta.get('slug', [])]
+    slugged = [p for p in pages if p.meta.get('slug') and slug == str(p.meta.get('slug', None))]
     if len(slugged) == 1:
         return render_template('post.html', page=slugged[0], slug=slug)
     return render_template('page_not_found.html'), 404
