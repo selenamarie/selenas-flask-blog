@@ -1,4 +1,5 @@
 title: "Updates on my Lenovo X230 situation: Skype, screencap work; Vidyo not so much"
+slug: updates-on-my-lenovo-x230-situation-skype-screencap-work-vidyo-not-so-much
 id: 4593
 date: 2013-01-18 17:10:46
 tags: 

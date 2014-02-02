@@ -1,4 +1,5 @@
 title: "Seeking: Database Disaster Stories"
+slug: seeking-database-disaster-stories
 id: 3355
 date: 2011-09-21 07:30:00
 tags: 

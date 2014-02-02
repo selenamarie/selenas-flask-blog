@@ -1,4 +1,5 @@
 title: "the kecky county fair"
+slug: the-kecky-county-fair
 id: 123
 date: 2007-08-19 13:29:47
 tags: 

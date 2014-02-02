@@ -1,4 +1,5 @@
 title: "quietly excellent"
+slug: quietly-excellent
 id: 96
 date: 2007-06-21 09:27:03
 tags: 

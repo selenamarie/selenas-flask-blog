@@ -1,4 +1,5 @@
 title: "Starting at Emma"
+slug: starting-at-emma
 id: 1747
 date: 2010-06-09 08:00:59
 tags: 

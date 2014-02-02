@@ -1,4 +1,5 @@
 title: "solar panel AA recharger"
+slug: solar-panel-aa-recharger
 id: 72
 date: 2007-02-28 08:43:54
 tags: 

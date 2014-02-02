@@ -1,4 +1,5 @@
 title: "JSON, PLV8 and Postgres 9.3"
+slug: json-plv8-and-postgres-9-3
 id: 4828
 date: 2013-05-31 04:00:58
 tags: 

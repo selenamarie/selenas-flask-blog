@@ -1,4 +1,5 @@
 title: "Where PostgreSQL succeeds and what to do next"
+slug: where-postgresql-succeeds-and-what-to-do-next
 id: 2848
 date: 2011-04-05 08:01:50
 tags: 

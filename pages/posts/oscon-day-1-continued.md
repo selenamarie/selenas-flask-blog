@@ -1,4 +1,5 @@
 title: "oscon: day 1 (continued)"
+slug: oscon-day-1-continued
 id: 108
 date: 2007-07-27 16:03:35
 tags: 

@@ -1,4 +1,5 @@
 title: "you know, i think this has gone a bit far"
+slug: you-know-i-think-this-has-gone-a-bit-far
 id: 20
 date: 2007-05-21 13:55:22
 tags: 

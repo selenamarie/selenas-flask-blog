@@ -1,4 +1,5 @@
 title: "PyLadies Meeting notes from \"Negotiating the job market: a panel discussion\""
+slug: pyladies-meeting-notes-from-negotiating-the-job-market-a-panel-discussion
 id: 5150
 date: 2014-02-01 10:41:15
 tags: 

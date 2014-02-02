@@ -1,4 +1,5 @@
 title: "PostgreSQL Conference is over! A few thank-yous..."
+slug: postgresql-conference-is-over-a-few-thank-yous
 id: 266
 date: 2008-03-31 03:49:55
 tags: 

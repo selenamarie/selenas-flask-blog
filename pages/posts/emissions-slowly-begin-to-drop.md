@@ -1,4 +1,5 @@
 title: "Emissions slowly begin to drop ?"
+slug: emissions-slowly-begin-to-drop
 id: 61
 date: 2007-04-17 11:00:12
 tags: 

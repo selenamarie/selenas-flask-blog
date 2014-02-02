@@ -1,4 +1,5 @@
 title: "Postgres mailing list traffic over time"
+slug: postgres-mailing-list-traffic-over-time
 id: 537
 date: 2008-11-26 19:01:22
 tags: 

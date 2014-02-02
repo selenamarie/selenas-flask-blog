@@ -1,4 +1,5 @@
 title: "recipes"
+slug: recipes
 id: 9
 date: 2006-10-03 06:40:18
 tags: 

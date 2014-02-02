@@ -1,4 +1,5 @@
 title: "Thinking like BJ Fogg"
+slug: thinking-like-bj-fogg
 id: 3601
 date: 2012-01-11 21:13:59
 tags: 

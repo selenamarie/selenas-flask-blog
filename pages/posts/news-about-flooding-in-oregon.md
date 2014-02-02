@@ -1,4 +1,5 @@
 title: "news about flooding in oregon"
+slug: news-about-flooding-in-oregon
 id: 195
 date: 2007-12-04 17:31:18
 tags: 

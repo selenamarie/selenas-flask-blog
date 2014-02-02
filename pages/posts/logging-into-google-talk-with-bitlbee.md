@@ -1,4 +1,5 @@
 title: "Logging into Google Talk with bitlbee"
+slug: logging-into-google-talk-with-bitlbee
 id: 3704
 date: 2012-02-11 08:03:52
 tags: 

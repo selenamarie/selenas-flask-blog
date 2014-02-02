@@ -1,4 +1,5 @@
 title: "nice nytimes article about a business"
+slug: nice-nytimes-article-about-a-business
 id: 30
 date: 2007-05-09 10:33:44
 tags: 

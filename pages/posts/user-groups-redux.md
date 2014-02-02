@@ -1,4 +1,5 @@
 title: "User Groups redux"
+slug: user-groups-redux
 id: 451
 date: 2008-09-04 16:14:34
 tags: 

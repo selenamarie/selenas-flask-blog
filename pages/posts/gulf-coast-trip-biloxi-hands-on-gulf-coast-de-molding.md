@@ -1,4 +1,5 @@
 title: "gulf coast trip: biloxi, hands on gulf coast, de-molding"
+slug: gulf-coast-trip-biloxi-hands-on-gulf-coast-de-molding
 id: 177
 date: 2007-11-20 22:16:16
 tags: 

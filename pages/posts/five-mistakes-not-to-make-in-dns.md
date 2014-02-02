@@ -1,4 +1,5 @@
 title: "five mistakes not to make in dns"
+slug: five-mistakes-not-to-make-in-dns
 id: 37
 date: 2007-04-26 13:51:31
 tags: 

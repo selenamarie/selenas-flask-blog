@@ -1,4 +1,5 @@
 title: "Leaving US PostgreSQL Assoc. - what's next for me? "
+slug: leaving-us-postgresql-assoc-whats-next-for-me
 id: 442
 date: 2008-08-28 17:55:55
 tags: 

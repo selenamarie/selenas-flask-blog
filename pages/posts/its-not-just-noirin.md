@@ -1,4 +1,5 @@
 title: "It's not just Noirin."
+slug: its-not-just-noirin
 id: 2209
 date: 2010-11-09 07:45:42
 tags: 

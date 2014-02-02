@@ -1,4 +1,5 @@
 title: "Bucardo talk up"
+slug: bucardo-talk-up
 id: 1241
 date: 2009-10-17 11:18:11
 tags: 

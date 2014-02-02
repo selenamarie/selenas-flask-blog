@@ -1,4 +1,5 @@
 title: "PostgreSQL Conference East Flickr group"
+slug: postgresql-conference-east-flickr-group
 id: 257
 date: 2008-03-27 15:01:14
 tags: 

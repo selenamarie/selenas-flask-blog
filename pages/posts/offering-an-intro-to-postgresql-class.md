@@ -1,4 +1,5 @@
 title: "Offering an Intro to PostgreSQL class"
+slug: offering-an-intro-to-postgresql-class
 id: 2510
 date: 2011-02-10 08:59:51
 tags: 

@@ -1,4 +1,5 @@
 title: "Open Data Hackathon Day: Oregon Business License Registry"
+slug: open-data-hackathon-day-oregon-business-license-registry
 id: 2287
 date: 2010-12-04 16:38:38
 tags: 

@@ -1,4 +1,5 @@
 title: "pavement and the search for meaning"
+slug: pavement-and-the-search-for-meaning
 id: 90
 date: 2007-06-17 13:23:44
 tags: 

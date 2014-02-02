@@ -1,4 +1,5 @@
 title: "Mentor Summit Report for PostgreSQL"
+slug: mentor-summit-report-for-postgresql
 id: 516
 date: 2008-10-27 09:27:24
 tags: 

@@ -1,4 +1,5 @@
 title: "Why you should go to LCA 2011"
+slug: why-you-should-go-to-lca-2011
 id: 1419
 date: 2010-01-27 08:17:59
 tags: 

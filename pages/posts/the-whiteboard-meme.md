@@ -1,4 +1,5 @@
 title: "the whiteboard meme"
+slug: the-whiteboard-meme
 id: 42
 date: 2007-04-18 08:10:00
 tags: 

@@ -1,4 +1,5 @@
 title: "an example for upcoming very brief normalization talk (part 1)"
+slug: an-example-for-upcoming-very-brief-normalization-talk-part-1
 id: 138
 date: 2007-09-18 19:55:25
 tags: 

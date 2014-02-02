@@ -1,4 +1,5 @@
 title: "lugradio live and emma hogbin"
+slug: lugradio-live-and-emma-hogbin
 id: 290
 date: 2008-04-12 23:48:42
 tags: 

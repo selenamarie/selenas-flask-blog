@@ -1,4 +1,5 @@
 title: "An opportunity for Postgres"
+slug: an-opportunity-for-postgres
 id: 936
 date: 2009-04-30 10:13:22
 tags: 

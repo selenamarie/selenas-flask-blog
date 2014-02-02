@@ -1,4 +1,5 @@
 title: "A comment on the Social Engineering article"
+slug: a-comment-on-the-social-engineering-article
 id: 129
 date: 2007-09-05 10:29:30
 tags: 

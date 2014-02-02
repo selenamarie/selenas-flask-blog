@@ -1,4 +1,5 @@
 title: "Women in Open Source: a focus group in March"
+slug: focus-group
 id: 210
 date: 2008-02-01 17:54:21
 tags: 

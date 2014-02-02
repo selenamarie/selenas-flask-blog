@@ -1,4 +1,5 @@
 title: "Server Sky presentation, with Personal Telco folks, tomorrow in PDX at 6:30pm"
+slug: server-sky-presentation-with-personal-telco-folks-tomorrow-in-pdx-at-630pm
 id: 1262
 date: 2009-10-27 08:25:12
 tags: 

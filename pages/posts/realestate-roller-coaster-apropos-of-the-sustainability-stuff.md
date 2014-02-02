@@ -1,4 +1,5 @@
 title: "realestate roller coaster (apropos of the sustainability stuff)"
+slug: realestate-roller-coaster-apropos-of-the-sustainability-stuff
 id: 54
 date: 2007-04-04 08:08:13
 tags: 

@@ -1,4 +1,5 @@
 title: "collaboration = conflict + people"
+slug: collaboration-conflict-people
 id: 1012
 date: 2009-06-07 13:06:52
 tags: 

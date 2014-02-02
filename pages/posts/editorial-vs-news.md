@@ -1,4 +1,5 @@
 title: "Editorial vs. News"
+slug: editorial-vs-news
 id: 134
 date: 2007-09-09 16:09:41
 tags: 

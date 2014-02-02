@@ -1,4 +1,5 @@
 title: "#PDX11: Community as competitive advantage"
+slug: pdx11-community-as-competitive-advantage
 id: 2342
 date: 2010-12-05 15:57:28
 tags: 

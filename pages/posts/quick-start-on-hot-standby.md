@@ -1,4 +1,5 @@
 title: "Quick start on Hot Standby"
+slug: quick-start-on-hot-standby
 id: 1808
 date: 2010-07-12 19:48:12
 tags: 

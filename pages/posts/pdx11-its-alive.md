@@ -1,4 +1,5 @@
 title: "#PDX11: It's alive!"
+slug: pdx11-its-alive
 id: 2289
 date: 2010-12-02 13:53:01
 tags: 

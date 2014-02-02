@@ -1,4 +1,5 @@
 title: "Open Source Bridge speakers announced!"
+slug: open-source-bridge-speakers-announced
 id: 864
 date: 2009-04-23 11:28:12
 tags: 

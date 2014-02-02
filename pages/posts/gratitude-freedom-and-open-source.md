@@ -1,4 +1,5 @@
 title: "Gratitude, freedom and open source"
+slug: gratitude-freedom-and-open-source
 id: 717
 date: 2009-02-18 07:51:26
 tags: 

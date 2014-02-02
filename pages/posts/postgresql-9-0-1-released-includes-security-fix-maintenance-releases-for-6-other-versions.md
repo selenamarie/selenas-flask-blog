@@ -1,4 +1,5 @@
 title: "PostgreSQL 9.0.1 released, includes security fix & maintenance releases for 6 other versions"
+slug: postgresql-9-0-1-released-includes-security-fix-maintenance-releases-for-6-other-versions
 id: 2096
 date: 2010-10-05 09:44:40
 tags: 

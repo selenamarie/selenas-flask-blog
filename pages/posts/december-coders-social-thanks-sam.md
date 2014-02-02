@@ -1,4 +1,5 @@
 title: "december coder's bash - thanks, sam"
+slug: december-coders-social-thanks-sam
 id: 201
 date: 2007-12-12 07:16:56
 tags: 

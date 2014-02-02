@@ -1,4 +1,5 @@
 title: "Puppet Faces: defaults and 'puppet node clean'"
+slug: puppet-faces-defaults-and-puppet-node-clean
 id: 3468
 date: 2011-11-02 17:55:41
 tags: 

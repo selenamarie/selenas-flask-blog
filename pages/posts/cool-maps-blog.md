@@ -1,4 +1,5 @@
 title: "cool maps blog"
+slug: cool-maps-blog
 id: 18
 date: 2007-05-22 08:43:22
 tags: 

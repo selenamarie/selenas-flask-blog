@@ -1,4 +1,5 @@
 title: "PostgreSQL 9.0 media coverage roundup"
+slug: postgresql-9-0-media-coverage-roundup
 id: 1992
 date: 2010-09-20 15:34:27
 tags: 

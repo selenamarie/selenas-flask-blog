@@ -1,4 +1,5 @@
 title: "Explaining MVCC in Postgres: system defined columns"
+slug: explaining-mvcc-in-postgres-system-defined-columns
 id: 1921
 date: 2010-09-01 07:00:18
 tags: 

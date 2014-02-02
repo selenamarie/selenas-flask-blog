@@ -1,4 +1,5 @@
 title: "Open Source Bridge"
+slug: open-source-bridge
 id: 520
 date: 2008-10-29 00:40:31
 tags: 

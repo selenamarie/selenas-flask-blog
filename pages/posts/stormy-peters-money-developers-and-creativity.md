@@ -1,4 +1,5 @@
 title: "Stormy Peters: Money, developers and creativity"
+slug: stormy-peters-money-developers-and-creativity
 id: 212
 date: 2008-02-11 11:08:02
 tags: 

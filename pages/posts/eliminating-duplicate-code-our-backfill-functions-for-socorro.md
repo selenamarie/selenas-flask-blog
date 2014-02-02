@@ -1,4 +1,5 @@
 title: "Eliminating duplicate code: our backfill functions for Socorro"
+slug: eliminating-duplicate-code-our-backfill-functions-for-socorro
 id: 5051
 date: 2013-11-05 07:37:31
 tags: 

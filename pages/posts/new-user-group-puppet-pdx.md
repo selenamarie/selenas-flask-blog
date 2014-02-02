@@ -1,4 +1,5 @@
 title: "New user group: Puppet PDX"
+slug: new-user-group-puppet-pdx
 id: 730
 date: 2009-02-19 13:59:54
 tags: 

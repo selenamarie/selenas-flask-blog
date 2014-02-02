@@ -1,4 +1,5 @@
 title: "Day 3 at PgConf.EU: the future, replication, performance and the closing keynote"
+slug: day-3-at-pgconf-eu-the-future-replication-performance-and-the-rising-tide-of-daas
 id: 3400
 date: 2011-10-21 06:33:36
 tags: 

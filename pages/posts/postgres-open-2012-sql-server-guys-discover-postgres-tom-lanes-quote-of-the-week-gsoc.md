@@ -1,4 +1,5 @@
 title: "Postgres Open 2012, SQL Server Guys discover Postgres, Tom Lane's quote of the week & GSoC"
+slug: postgres-open-2012-sql-server-guys-discover-postgres-tom-lanes-quote-of-the-week-gsoc
 id: 3751
 date: 2012-03-09 13:41:25
 tags: 

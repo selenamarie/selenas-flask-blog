@@ -1,4 +1,5 @@
 title: "What Open Source developers can do for teachers: volunteer to speak in a classroom"
+slug: what-open-source-developers-can-do-for-teachers-volunteer-to-speak-in-a-classroom
 id: 4916
 date: 2013-07-24 07:25:54
 tags: 

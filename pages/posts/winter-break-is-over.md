@@ -1,4 +1,5 @@
 title: "winter break is over!"
+slug: winter-break-is-over
 id: 204
 date: 2008-01-06 19:36:46
 tags: 

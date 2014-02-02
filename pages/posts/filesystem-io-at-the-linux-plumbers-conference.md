@@ -1,4 +1,5 @@
 title: "Filesystem I/O at the Linux Plumbers Conference"
+slug: filesystem-io-at-the-linux-plumbers-conference
 id: 457
 date: 2008-09-10 12:12:22
 tags: 

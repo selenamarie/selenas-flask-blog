@@ -1,4 +1,5 @@
 title: "end of an era"
+slug: end-of-an-era
 id: 112
 date: 2007-08-05 22:47:35
 tags: 

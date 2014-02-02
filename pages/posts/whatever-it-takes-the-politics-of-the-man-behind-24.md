@@ -1,4 +1,5 @@
 title: "Whatever it takes: the politics of the man behind 24"
+slug: whatever-it-takes-the-politics-of-the-man-behind-24
 id: 78
 date: 2007-02-20 13:32:47
 tags: 

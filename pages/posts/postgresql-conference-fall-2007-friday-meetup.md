@@ -1,4 +1,5 @@
 title: "PostgreSQL Conference Fall 2007 - Friday meetup"
+slug: postgresql-conference-fall-2007-friday-meetup
 id: 157
 date: 2007-10-12 13:33:57
 tags: 

@@ -1,4 +1,5 @@
 title: "gulf coast trip: halloween, new orleans, lazarus project"
+slug: gulf-coast-trip-halloween-new-orleans-lazarus-project
 id: 191
 date: 2007-11-24 08:35:40
 tags: 

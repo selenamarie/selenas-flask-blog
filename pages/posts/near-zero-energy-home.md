@@ -1,4 +1,5 @@
 title: "near-zero energy home"
+slug: near-zero-energy-home
 id: 69
 date: 2007-03-02 09:45:45
 tags: 

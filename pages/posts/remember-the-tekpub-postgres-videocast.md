@@ -1,4 +1,5 @@
 title: "Remember the tekpub Postgres videocast?"
+slug: remember-the-tekpub-postgres-videocast
 id: 4715
 date: 2013-03-11 07:47:15
 tags: 

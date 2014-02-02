@@ -1,4 +1,5 @@
 title: "backtracking"
+slug: backtracking
 id: 8
 date: 2006-10-04 21:06:49
 tags: 

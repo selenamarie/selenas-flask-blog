@@ -1,4 +1,5 @@
 title: "At PgCon in Ottawa, Day 1"
+slug: at-pgcon-in-ottawa
 id: 346
 date: 2008-05-22 06:45:10
 tags: 

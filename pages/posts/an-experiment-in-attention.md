@@ -1,4 +1,5 @@
 title: "An experiment in attention"
+slug: an-experiment-in-attention
 id: 5022
 date: 2013-10-13 12:11:12
 tags: 

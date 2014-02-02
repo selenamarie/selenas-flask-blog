@@ -1,4 +1,5 @@
 title: "Customizing the RPMs from pgrpms.org"
+slug: customizing-the-rpms-from-pgrpms-org
 id: 1862
 date: 2010-08-03 18:00:23
 tags: 

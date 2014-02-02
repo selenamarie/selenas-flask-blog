@@ -1,4 +1,5 @@
 title: "Simon Riggs just rocked my world."
+slug: simon-riggs-just-rocked-my-world
 id: 655
 date: 2009-02-07 09:49:20
 tags: 

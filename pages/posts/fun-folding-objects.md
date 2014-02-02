@@ -1,4 +1,5 @@
 title: "fun folding objects"
+slug: fun-folding-objects
 id: 66
 date: 2007-03-22 12:42:59
 tags: 

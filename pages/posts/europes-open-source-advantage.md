@@ -1,4 +1,5 @@
 title: "Europe's open source advantage"
+slug: europes-open-source-advantage
 id: 4378
 date: 2012-08-25 03:29:37
 tags: 

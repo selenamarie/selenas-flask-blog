@@ -1,4 +1,5 @@
 title: "interview with VMWare CEO Diane Greene"
+slug: interview-with-vmware-ceo-diane-greene
 id: 136
 date: 2007-09-17 07:16:14
 tags: 

@@ -1,4 +1,5 @@
 title: "seven steps to remarkable customer service"
+slug: seven-steps-to-remarkable-customer-service
 id: 79
 date: 2007-02-20 13:29:25
 tags: 

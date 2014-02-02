@@ -1,4 +1,5 @@
 title: "a greener apple"
+slug: a-greener-apple
 id: 35
 date: 2007-05-02 17:07:29
 tags: 

@@ -1,4 +1,5 @@
 title: "new laptop bag"
+slug: new-laptop-bag
 id: 152
 date: 2007-10-05 23:59:44
 tags: 

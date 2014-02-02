@@ -1,4 +1,5 @@
 title: "The Secret of Apple Design: user-experience document"
+slug: the-secret-of-apple-design-user-experience-document
 id: 27
 date: 2007-05-09 16:13:51
 tags: 

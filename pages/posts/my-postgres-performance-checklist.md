@@ -1,4 +1,5 @@
 title: "My Postgres Performance Checklist"
+slug: my-postgres-performance-checklist
 id: 3358
 date: 2011-09-22 07:30:13
 tags: 

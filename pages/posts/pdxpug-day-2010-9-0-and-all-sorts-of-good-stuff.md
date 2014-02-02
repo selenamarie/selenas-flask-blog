@@ -1,4 +1,5 @@
 title: "PDXPUG Day 2010: 9.0 and all sorts of good stuff"
+slug: pdxpug-day-2010-9-0-and-all-sorts-of-good-stuff
 id: 1844
 date: 2010-07-17 23:49:14
 tags: 

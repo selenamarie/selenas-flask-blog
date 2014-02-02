@@ -1,4 +1,5 @@
 title: "conference audio is up!"
+slug: conference-audio-is-up
 id: 167
 date: 2007-10-26 17:28:33
 tags: 

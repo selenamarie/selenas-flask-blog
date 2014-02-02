@@ -1,4 +1,5 @@
 title: "women and ubuntulive"
+slug: women-and-ubuntulive
 id: 99
 date: 2007-07-15 08:59:11
 tags: 

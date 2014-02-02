@@ -1,4 +1,5 @@
 title: "OSCON 2008 - People for Geeks: Leading without being in charge"
+slug: oscon-2008-people-for-geeks-leading-without-being-in-charge
 id: 419
 date: 2008-07-22 15:38:38
 tags: 

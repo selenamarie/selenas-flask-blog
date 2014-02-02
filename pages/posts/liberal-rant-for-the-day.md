@@ -1,4 +1,5 @@
 title: "liberal rant for the day"
+slug: liberal-rant-for-the-day
 id: 12
 date: 2007-01-18 19:38:57
 tags: 

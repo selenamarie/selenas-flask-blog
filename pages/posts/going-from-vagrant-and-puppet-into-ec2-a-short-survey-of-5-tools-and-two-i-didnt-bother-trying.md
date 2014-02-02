@@ -1,4 +1,5 @@
 title: "Going from Vagrant and Puppet into EC2: A short survey of 5 tools (and two I didn't bother trying)"
+slug: going-from-vagrant-and-puppet-into-ec2-a-short-survey-of-5-tools-and-two-i-didnt-bother-trying
 id: 3420
 date: 2011-10-28 18:21:58
 tags: 

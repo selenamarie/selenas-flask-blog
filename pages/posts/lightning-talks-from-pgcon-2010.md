@@ -1,4 +1,5 @@
 title: "Lightning talks from PgCon 2010"
+slug: lightning-talks-from-pgcon-2010
 id: 1706
 date: 2010-05-21 11:06:39
 tags: 

@@ -1,4 +1,5 @@
 title: "Bar Camp Portland: what a weekend!"
+slug: bar-camp-portland-what-a-weekend
 id: 328
 date: 2008-05-04 22:15:19
 tags: 

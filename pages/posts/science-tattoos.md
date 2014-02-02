@@ -1,4 +1,5 @@
 title: "science tattoos"
+slug: science-tattoos
 id: 133
 date: 2007-09-09 11:46:44
 tags: 

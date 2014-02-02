@@ -1,4 +1,5 @@
 title: "relational algebra talk - meeting summary"
+slug: relational-algebra-talk-meeting-summary
 id: 143
 date: 2007-09-26 15:52:08
 tags: 

@@ -1,4 +1,5 @@
 title: "PgCon 2008 - big announcements, community conversations"
+slug: pgcon-2008-big-announcements-community-conversations
 id: 357
 date: 2008-05-28 09:52:03
 tags: 

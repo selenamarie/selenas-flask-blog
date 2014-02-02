@@ -1,4 +1,5 @@
 title: "Learning to think, session II"
+slug: learning-to-think-session-ii
 id: 709
 date: 2009-02-17 00:37:20
 tags: 

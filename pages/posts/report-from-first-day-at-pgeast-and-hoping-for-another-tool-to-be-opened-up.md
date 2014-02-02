@@ -1,4 +1,5 @@
 title: "Report from first day at PgEast and hoping for another tool to be opened up"
+slug: report-from-first-day-at-pgeast-and-hoping-for-another-tool-to-be-opened-up
 id: 2761
 date: 2011-03-24 10:04:52
 tags: 

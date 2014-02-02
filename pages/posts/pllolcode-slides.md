@@ -1,4 +1,5 @@
 title: "pl/lolcode slides"
+slug: pllolcode-slides
 id: 323
 date: 2008-05-01 18:28:15
 tags: 

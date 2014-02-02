@@ -1,4 +1,5 @@
 title: "This town needs..."
+slug: this-town-needs
 id: 1515
 date: 2010-03-17 09:12:28
 tags: 

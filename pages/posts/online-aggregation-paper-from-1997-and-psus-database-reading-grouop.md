@@ -1,4 +1,5 @@
 title: "Online aggregation paper from 1997 and PSU's database reading group"
+slug: online-aggregation-paper-from-1997-and-psus-database-reading-grouop
 id: 1889
 date: 2010-08-28 15:03:36
 tags: 

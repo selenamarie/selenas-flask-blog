@@ -1,4 +1,5 @@
 title: "class not dismissed"
+slug: class-not-dismissed
 id: 82
 date: 2007-05-13 12:08:48
 tags: 

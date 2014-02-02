@@ -1,4 +1,5 @@
 title: "Speaking at the Cash Music Summit today"
+slug: speaking-at-the-cash-music-summit-today
 id: 4960
 date: 2013-08-01 07:27:12
 tags: 

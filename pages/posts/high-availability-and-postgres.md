@@ -1,4 +1,5 @@
 title: "High availability and Postgres"
+slug: high-availability-and-postgres
 id: 3318
 date: 2011-08-17 15:52:08
 tags: 

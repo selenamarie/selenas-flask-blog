@@ -1,4 +1,5 @@
 title: "can't get NAU website to work? try this"
+slug: cant-get-nau-website-to-work-try-this
 id: 58
 date: 2007-03-23 16:29:30
 tags: 

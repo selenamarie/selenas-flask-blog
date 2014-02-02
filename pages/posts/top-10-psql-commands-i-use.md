@@ -1,4 +1,5 @@
 title: "Everyday Postgres: Top 10 psql \"\\\" commands I use"
+slug: top-10-psql-commands-i-use
 id: 5058
 date: 2013-11-06 15:39:02
 tags: 

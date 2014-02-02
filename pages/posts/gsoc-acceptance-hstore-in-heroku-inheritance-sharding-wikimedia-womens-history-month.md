@@ -1,4 +1,5 @@
 title: "GSoC Acceptance, Hstore in Heroku, Inheritance & Sharding, Wikimedia Women's History Month Editathon"
+slug: gsoc-acceptance-hstore-in-heroku-inheritance-sharding-wikimedia-womens-history-month
 id: 3778
 date: 2012-03-16 12:51:10
 tags: 

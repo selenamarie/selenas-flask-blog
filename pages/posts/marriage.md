@@ -1,4 +1,5 @@
 title: "marriage"
+slug: marriage
 id: 5
 date: 2006-09-27 20:15:03
 tags: 

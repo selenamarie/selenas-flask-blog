@@ -1,4 +1,5 @@
 title: "My Other Things"
+slug: my-other-things
 id: 317
 date: 2008-04-28 09:23:28
 tags: 

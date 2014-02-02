@@ -1,4 +1,5 @@
 title: "geekspeakr.com"
+slug: geekspeakrcom
 id: 298
 date: 2008-04-14 00:20:27
 tags: 

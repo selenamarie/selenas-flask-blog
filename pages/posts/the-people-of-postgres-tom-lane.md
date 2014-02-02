@@ -1,4 +1,5 @@
 title: "The People of Postgres: Tom Lane"
+slug: the-people-of-postgres-tom-lane
 id: 4816
 date: 2013-05-24 07:30:50
 tags: 

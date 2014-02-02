@@ -1,4 +1,5 @@
 title: "my comments on \"A Fifty Year Wave of Change\""
+slug: my-comments-on-a-fifty-year-wave-of-change
 id: 130
 date: 2007-09-05 10:49:23
 tags: 

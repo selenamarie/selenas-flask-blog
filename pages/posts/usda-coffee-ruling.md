@@ -1,4 +1,5 @@
 title: "USDA coffee ruling"
+slug: usda-coffee-ruling
 id: 48
 date: 2007-04-05 02:37:52
 tags: 

@@ -1,4 +1,5 @@
 title: "oscon: day 1"
+slug: oscon-day-1
 id: 107
 date: 2007-07-27 16:00:20
 tags: 

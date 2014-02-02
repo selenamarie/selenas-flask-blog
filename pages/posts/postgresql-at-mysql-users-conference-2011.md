@@ -1,4 +1,5 @@
 title: "PostgreSQL at MySQL Users' Conference 2011"
+slug: postgresql-at-mysql-users-conference-2011
 id: 2118
 date: 2010-10-06 05:39:28
 tags: 

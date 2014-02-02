@@ -1,4 +1,5 @@
 title: "wxPython"
+slug: wxpython
 id: 38
 date: 2007-04-25 16:53:27
 tags: 

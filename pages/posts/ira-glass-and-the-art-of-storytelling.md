@@ -1,4 +1,5 @@
 title: "ira glass and the art of storytelling"
+slug: ira-glass-and-the-art-of-storytelling
 id: 67
 date: 2007-03-02 13:35:04
 tags: 

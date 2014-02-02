@@ -1,4 +1,5 @@
 title: "PostgreSQL at MySQL Users Conference: the sessions!"
+slug: postgresql-at-mysql-users-conference-the-sessions
 id: 2544
 date: 2011-02-14 16:37:08
 tags: 

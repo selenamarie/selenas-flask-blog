@@ -1,4 +1,5 @@
 title: "While we're here, let's fix computer science education: DjangoCon keynote and resources"
+slug: while-were-here-lets-fix-computer-science-education-djangocon-keynote-and-resources
 id: 4410
 date: 2012-09-05 11:41:26
 tags: 

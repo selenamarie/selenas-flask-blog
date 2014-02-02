@@ -1,4 +1,5 @@
 title: "interesting film: Killer of Sheep"
+slug: interesting-film-killer-of-sheep
 id: 55
 date: 2007-04-03 09:46:03
 tags: 

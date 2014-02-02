@@ -1,4 +1,5 @@
 title: "Looking toward Chicago: Postgres Open, local user groups, parties and on to October!"
+slug: looking-toward-chicago-postgres-open-local-user-groups-parties-and-on-to-october
 id: 3325
 date: 2011-09-02 12:49:49
 tags: 

@@ -1,4 +1,5 @@
 title: "Call for proposals for PDXPUG PgDay, due June 20, 2008"
+slug: call-for-proposals-for-pdxpug-pgday-due-june-20-2007
 id: 366
 date: 2008-06-02 06:41:35
 tags: 

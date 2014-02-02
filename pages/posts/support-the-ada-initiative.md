@@ -1,4 +1,5 @@
 title: "Support the Ada Initiative"
+slug: support-the-ada-initiative
 id: 3504
 date: 2011-12-13 11:30:06
 tags: 

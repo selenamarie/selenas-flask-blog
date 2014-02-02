@@ -1,4 +1,5 @@
 title: "FSM, visibility map and new VACUUM awesomeness"
+slug: fsm-visibility-map-and-new-vacuum-awesomeness
 id: 677
 date: 2009-02-10 18:26:43
 tags: 

@@ -1,4 +1,5 @@
 title: "Update releases for 9.1.1, 9.0.5, 8.4.9, 8.3.16 and 8.2.22"
+slug: update-releases-for-9-1-1-9-0-5-8-4-9-8-3-16-and-8-2-22
 id: 3372
 date: 2011-09-26 08:30:02
 tags: 

@@ -1,4 +1,5 @@
 title: "the importance of green building practices"
+slug: the-importance-of-green-building-practices
 id: 93
 date: 2007-06-20 08:31:32
 tags: 

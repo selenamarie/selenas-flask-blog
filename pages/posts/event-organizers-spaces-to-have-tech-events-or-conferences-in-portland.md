@@ -1,4 +1,5 @@
 title: "Event organizers: spaces to have tech events or conferences in Portland"
+slug: event-organizers-spaces-to-have-tech-events-or-conferences-in-portland
 id: 2490
 date: 2011-02-08 10:19:04
 tags: 

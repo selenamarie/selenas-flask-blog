@@ -1,4 +1,5 @@
 title: "PostgreSQL Conference: Friday night dinner"
+slug: postgresql-conference-friday-night-dinner
 id: 488
 date: 2008-10-08 13:00:25
 tags: 

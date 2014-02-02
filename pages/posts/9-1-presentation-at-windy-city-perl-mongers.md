@@ -1,4 +1,5 @@
 title: "9.1 presentation at Windy City Perl Mongers"
+slug: 9-1-presentation-at-windy-city-perl-mongers
 id: 3353
 date: 2011-09-20 09:15:02
 tags: 

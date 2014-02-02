@@ -1,4 +1,5 @@
 title: "CouchCamp 2010: yay!"
+slug: couchcamp-2010-yay
 id: 1951
 date: 2010-09-11 11:06:34
 tags: 

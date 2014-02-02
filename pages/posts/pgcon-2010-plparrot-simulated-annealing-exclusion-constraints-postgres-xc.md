@@ -1,4 +1,5 @@
 title: "PgCon 2010 - PL/Parrot, Simulated Annealing, Exclusion Constraints, Postgres-XC"
+slug: pgcon-2010-plparrot-simulated-annealing-exclusion-constraints-postgres-xc
 id: 1715
 date: 2010-05-26 07:43:19
 tags: 

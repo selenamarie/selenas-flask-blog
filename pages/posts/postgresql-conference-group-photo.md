@@ -1,4 +1,5 @@
 title: "PostgreSQL Conference Group Photo"
+slug: postgresql-conference-group-photo
 id: 273
 date: 2008-04-02 09:32:40
 tags: 

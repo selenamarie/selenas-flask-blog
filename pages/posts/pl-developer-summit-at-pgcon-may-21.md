@@ -1,4 +1,5 @@
 title: "PL Developer Summit at PgCon, May 21!"
+slug: pl-developer-summit-at-pgcon-may-21
 id: 2612
 date: 2011-02-28 15:22:37
 tags: 

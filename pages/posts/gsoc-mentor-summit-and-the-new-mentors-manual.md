@@ -1,4 +1,5 @@
 title: "GSoC Mentor Summit and the new mentor's manual"
+slug: gsoc-mentor-summit-and-the-new-mentors-manual
 id: 1251
 date: 2009-10-24 09:26:10
 tags: 

@@ -1,4 +1,5 @@
 title: "Raw notes from Kevin Grittner's talk on SSI"
+slug: raw-notes-from-kevin-grittners-talk-on-ssi
 id: 2750
 date: 2011-03-24 05:02:48
 tags: 

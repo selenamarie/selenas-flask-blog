@@ -1,4 +1,5 @@
 title: "Pack your bagel in a CD spindle"
+slug: pack-your-bagel-in-a-cd-spindle
 id: 51
 date: 2007-04-05 09:49:45
 tags: 

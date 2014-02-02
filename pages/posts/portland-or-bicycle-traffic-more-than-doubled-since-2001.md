@@ -1,4 +1,5 @@
 title: "portland, or bicycle traffic more than doubled since 2001"
+slug: portland-or-bicycle-traffic-more-than-doubled-since-2001
 id: 146
 date: 2007-09-27 16:49:07
 tags: 

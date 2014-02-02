@@ -1,4 +1,5 @@
 title: "postgresql conference east 2008 - announcement"
+slug: postgresql-conference-east-2008-announcement
 id: 194
 date: 2007-11-29 23:50:22
 tags: 

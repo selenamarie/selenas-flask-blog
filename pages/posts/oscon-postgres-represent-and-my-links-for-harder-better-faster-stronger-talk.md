@@ -1,4 +1,5 @@
 title: "OSCON: Postgres represent! And my links for Harder, Better, Faster, Stronger talk"
+slug: oscon-postgres-represent-and-my-links-for-harder-better-faster-stronger-talk
 id: 3262
 date: 2011-07-23 17:21:39
 tags: 

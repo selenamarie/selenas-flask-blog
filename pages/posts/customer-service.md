@@ -1,4 +1,5 @@
 title: "customer service"
+slug: customer-service
 id: 40
 date: 2007-04-20 15:20:16
 tags: 

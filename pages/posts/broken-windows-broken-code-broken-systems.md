@@ -1,4 +1,5 @@
 title: "Broken windows, broken code, broken systems"
+slug: broken-windows-broken-code-broken-systems
 id: 2601
 date: 2011-03-02 08:49:09
 tags: 

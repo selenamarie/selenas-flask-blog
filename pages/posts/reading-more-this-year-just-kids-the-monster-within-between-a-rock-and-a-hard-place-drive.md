@@ -1,4 +1,5 @@
 title: "Reading more this year: Just Kids, The Monster Within, Between a Rock and a Hard Place, Drive"
+slug: reading-more-this-year-just-kids-the-monster-within-between-a-rock-and-a-hard-place-drive
 id: 2746
 date: 2011-03-21 17:00:56
 tags: 

@@ -1,4 +1,5 @@
 title: "xia xiaowan"
+slug: xia-xiaowan
 id: 47
 date: 2007-04-06 12:16:59
 tags: 

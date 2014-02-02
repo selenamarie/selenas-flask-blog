@@ -1,4 +1,5 @@
 title: "Learning python the hard way: print vs sys.write, and python -u"
+slug: learning-python-the-hard-way-print-vs-sys-write-and-python-u
 id: 2724
 date: 2011-03-20 14:54:51
 tags: 

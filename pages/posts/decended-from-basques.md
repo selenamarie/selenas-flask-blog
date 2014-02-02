@@ -1,4 +1,5 @@
 title: "descended from basques?"
+slug: decended-from-basques
 id: 3
 date: 2006-09-25 21:24:01
 tags: 

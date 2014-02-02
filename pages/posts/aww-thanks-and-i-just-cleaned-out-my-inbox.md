@@ -1,4 +1,5 @@
 title: "Aww. Thanks! :) And I just cleaned out my inbox."
+slug: aww-thanks-and-i-just-cleaned-out-my-inbox
 id: 3226
 date: 2011-07-14 13:05:24
 tags: 

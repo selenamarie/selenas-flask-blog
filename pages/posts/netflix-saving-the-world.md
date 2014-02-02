@@ -1,4 +1,5 @@
 title: "netflix saving the world"
+slug: netflix-saving-the-world
 id: 75
 date: 2007-02-26 08:20:45
 tags: 

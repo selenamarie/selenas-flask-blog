@@ -1,4 +1,5 @@
 title: "playing scrabble"
+slug: playing-scrabble
 id: 6
 date: 2006-09-30 18:33:11
 tags: 

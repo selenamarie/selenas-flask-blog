@@ -1,4 +1,5 @@
 title: "Open Data Hackathon Day: ScraperWiki views"
+slug: open-data-hackathon-day-scraperwiki-views
 id: 2324
 date: 2010-12-04 21:25:16
 tags: 

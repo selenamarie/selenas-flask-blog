@@ -1,4 +1,5 @@
 title: "Current status: little victories"
+slug: current-status-little-victories
 id: 4581
 date: 2013-01-14 17:54:37
 tags: 

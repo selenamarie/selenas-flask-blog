@@ -1,4 +1,5 @@
 title: "bike trips in portland"
+slug: bike-trips-in-portland
 id: 73
 date: 2007-02-28 08:28:27
 tags: 

@@ -1,4 +1,5 @@
 title: "FOSS resources and articles related to Africa"
+slug: foss-resources-and-articles-related-to-africa
 id: 1065
 date: 2009-07-06 00:39:42
 tags: 

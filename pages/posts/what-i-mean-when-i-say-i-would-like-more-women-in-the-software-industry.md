@@ -1,4 +1,5 @@
 title: "What I mean when I say I would like more women in the software industry"
+slug: what-i-mean-when-i-say-i-would-like-more-women-in-the-software-industry
 id: 4150
 date: 2012-05-11 17:22:11
 tags: 

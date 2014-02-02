@@ -1,4 +1,5 @@
 title: "Waffle-induced development"
+slug: waffle-induced-development
 id: 696
 date: 2009-02-12 11:24:34
 tags: 

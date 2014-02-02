@@ -1,4 +1,5 @@
 title: "Checklist for new event organizers: how to schedule and get people there"
+slug: checklist-for-new-event-organizers-how-to-schedule-and-get-people-there
 id: 2473
 date: 2011-02-03 16:42:31
 tags: 

@@ -1,4 +1,5 @@
 title: "PDX11 Civic Unconference Hacking report"
+slug: pdx11-civic-unconference-hacking-report
 id: 2803
 date: 2011-04-06 15:06:03
 tags: 

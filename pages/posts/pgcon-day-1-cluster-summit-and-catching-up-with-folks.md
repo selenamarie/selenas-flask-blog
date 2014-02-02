@@ -1,4 +1,5 @@
 title: "PgCon Day 1 - Cluster summit and catching up with folks"
+slug: pgcon-day-1-cluster-summit-and-catching-up-with-folks
 id: 3004
 date: 2011-05-18 04:28:29
 tags: 

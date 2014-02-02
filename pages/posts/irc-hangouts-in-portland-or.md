@@ -1,4 +1,5 @@
 title: "IRC hangouts in Portland, OR"
+slug: irc-hangouts-in-portland-or
 id: 1496
 date: 2010-05-02 08:00:44
 tags: 

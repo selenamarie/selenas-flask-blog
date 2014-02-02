@@ -1,4 +1,5 @@
 title: "Registering as a Foreign Corporation in Virginia"
+slug: registering-as-a-foreign-corporation-in-virginia
 id: 4220
 date: 2012-05-30 09:31:02
 tags: 

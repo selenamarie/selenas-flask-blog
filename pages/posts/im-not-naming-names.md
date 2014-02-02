@@ -1,4 +1,5 @@
 title: "i'm not naming names..."
+slug: im-not-naming-names
 id: 17
 date: 2007-06-04 15:30:00
 tags: 

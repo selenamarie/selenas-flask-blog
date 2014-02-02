@@ -1,4 +1,5 @@
 title: "Call for Presentations for Postgres Open 2012 is open"
+slug: call-for-presentations-for-postgres-open-2012-is-open
 id: 4228
 date: 2012-06-12 10:57:30
 tags: 

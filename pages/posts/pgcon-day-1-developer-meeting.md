@@ -1,4 +1,5 @@
 title: "PgCon Day 1: Developer meeting"
+slug: pgcon-day-1-developer-meeting
 id: 1687
 date: 2010-05-19 20:56:30
 tags: 

@@ -1,4 +1,5 @@
 title: "PostgreSQL Conference East - buckets of awesome!"
+slug: postgresql-conference-east-buckets-of-awesome
 id: 242
 date: 2008-03-14 05:12:32
 tags: 

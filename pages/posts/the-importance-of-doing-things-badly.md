@@ -1,4 +1,5 @@
 title: "The importance of doing things badly"
+slug: the-importance-of-doing-things-badly
 id: 3286
 date: 2011-08-01 07:27:28
 tags: 

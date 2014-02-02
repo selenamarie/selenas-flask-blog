@@ -1,4 +1,5 @@
 title: "At AdaCamp this weekend - reception & plotting for the imposter syndrome workshop"
+slug: at-adacamp-this-weekend-reception-plotting-for-the-imposter-syndrome-workshop
 id: 4857
 date: 2013-06-08 07:04:14
 tags: 

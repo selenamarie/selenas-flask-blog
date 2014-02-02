@@ -1,4 +1,5 @@
 title: "vernonia"
+slug: vernonia
 id: 202
 date: 2007-12-16 18:28:29
 tags: 

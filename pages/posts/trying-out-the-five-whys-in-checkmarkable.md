@@ -1,4 +1,5 @@
 title: "Embedding and Checkmarkable: the Five Whys"
+slug: trying-out-the-five-whys-in-checkmarkable
 id: 4154
 date: 2012-05-17 16:04:34
 tags: 

@@ -1,4 +1,5 @@
 title: "Google Summer of Code submission deadline is April 9, 19:00 UTC"
+slug: google-summer-of-code-submission-deadline-is-april-9-1900-utc
 id: 2907
 date: 2011-04-06 05:38:13
 tags: 

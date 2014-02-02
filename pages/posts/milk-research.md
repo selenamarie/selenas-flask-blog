@@ -1,4 +1,5 @@
 title: "milk research"
+slug: milk-research
 id: 71
 date: 2007-02-28 08:50:19
 tags: 

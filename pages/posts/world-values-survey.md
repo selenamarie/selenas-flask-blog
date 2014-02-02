@@ -1,4 +1,5 @@
 title: "world values survey"
+slug: world-values-survey
 id: 98
 date: 2007-06-21 10:21:43
 tags: 

@@ -1,4 +1,5 @@
 title: "indoor vegetable furniture"
+slug: indoor-vegetable-furniture
 id: 24
 date: 2007-05-14 11:10:24
 tags: 

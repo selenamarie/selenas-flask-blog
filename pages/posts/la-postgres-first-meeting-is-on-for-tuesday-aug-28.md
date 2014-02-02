@@ -1,4 +1,5 @@
 title: "LA Postgres first meeting is on for Tuesday, Aug 28!"
+slug: la-postgres-first-meeting-is-on-for-tuesday-aug-28
 id: 4349
 date: 2012-08-11 21:10:32
 tags: 

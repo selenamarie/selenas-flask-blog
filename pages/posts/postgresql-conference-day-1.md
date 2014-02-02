@@ -1,4 +1,5 @@
 title: "PostgreSQL Conference Day 1"
+slug: postgresql-conference-day-1
 id: 260
 date: 2008-03-29 20:28:59
 tags: 

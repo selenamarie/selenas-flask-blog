@@ -1,4 +1,5 @@
 title: "A year of PDXPUG"
+slug: a-year-of-pdxpug
 id: 585
 date: 2009-01-01 21:07:31
 tags: 

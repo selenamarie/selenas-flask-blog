@@ -1,4 +1,5 @@
 title: "Postgres Open 2012 schedule announced!"
+slug: postgres-open-2012-schedule-announced
 id: 4341
 date: 2012-08-08 10:03:10
 tags: 

@@ -1,4 +1,5 @@
 title: "being singled out - Tatiana Apandi interviewed by MacVoice"
+slug: being-singled-out-tatiana-apandi-interviewed-by-macvoice
 id: 135
 date: 2007-09-11 13:36:44
 tags: 

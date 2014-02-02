@@ -1,4 +1,5 @@
 title: "Women Who Code - where are they? "
+slug: women-who-code-where-are-they
 id: 272
 date: 2008-04-02 08:30:55
 tags: 

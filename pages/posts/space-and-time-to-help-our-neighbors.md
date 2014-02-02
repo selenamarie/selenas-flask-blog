@@ -1,4 +1,5 @@
 title: "Space and time to help our neighbors"
+slug: space-and-time-to-help-our-neighbors
 id: 1528
 date: 2010-03-18 08:00:23
 tags: 

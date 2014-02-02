@@ -1,4 +1,5 @@
 title: "PeaceMaker and indie educational software"
+slug: peacemaker-and-indie-educational-software
 id: 125
 date: 2007-08-25 13:05:00
 tags: 

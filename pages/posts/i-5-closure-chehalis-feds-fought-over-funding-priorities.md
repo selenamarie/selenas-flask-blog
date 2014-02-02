@@ -1,4 +1,5 @@
 title: "I-5 closure: chehalis & feds fought over funding, priorities"
+slug: i-5-closure-chehalis-feds-fought-over-funding-priorities
 id: 198
 date: 2007-12-05 12:57:48
 tags: 

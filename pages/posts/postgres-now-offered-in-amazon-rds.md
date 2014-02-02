@@ -1,4 +1,5 @@
 title: "Postgres now offered in Amazon RDS"
+slug: postgres-now-offered-in-amazon-rds
 id: 5072
 date: 2013-11-14 09:42:53
 tags: 

@@ -1,4 +1,5 @@
 title: "delightful sportswear"
+slug: delightful-sportswear
 id: 45
 date: 2007-04-09 07:53:03
 tags: 

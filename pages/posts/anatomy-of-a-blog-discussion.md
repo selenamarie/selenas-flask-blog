@@ -1,4 +1,5 @@
 title: "anatomy of a blog discussion"
+slug: anatomy-of-a-blog-discussion
 id: 50
 date: 2007-04-05 09:58:12
 tags: 

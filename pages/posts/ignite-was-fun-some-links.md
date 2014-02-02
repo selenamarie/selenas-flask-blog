@@ -1,4 +1,5 @@
 title: "ignite was fun, some links"
+slug: ignite-was-fun-some-links
 id: 166
 date: 2007-10-26 16:07:00
 tags: 

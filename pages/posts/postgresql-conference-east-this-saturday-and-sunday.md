@@ -1,4 +1,5 @@
 title: "PostgreSQL Conference East - this Saturday and Sunday"
+slug: postgresql-conference-east-this-saturday-and-sunday
 id: 255
 date: 2008-03-26 09:22:38
 tags: 

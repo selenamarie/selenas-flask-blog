@@ -1,4 +1,5 @@
 title: "the new old blog"
+slug: the-new-old-blog
 id: 11
 date: 2007-01-13 15:19:32
 tags: 

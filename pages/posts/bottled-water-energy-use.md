@@ -1,4 +1,5 @@
 title: "bottled water - energy use"
+slug: bottled-water-energy-use
 id: 80
 date: 2007-02-09 10:57:39
 tags: 

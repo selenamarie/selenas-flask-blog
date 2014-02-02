@@ -1,4 +1,5 @@
 title: "Podcasts recommended to me in January 2012"
+slug: podcasts-recommended-to-me-in-january-2012
 id: 3586
 date: 2012-01-11 08:10:48
 tags: 

@@ -1,4 +1,5 @@
 title: "Kicking off Open Source Bridge planning"
+slug: kicking-off-open-source-bridge-planning
 id: 1225
 date: 2009-10-15 07:12:18
 tags: 

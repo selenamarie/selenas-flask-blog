@@ -1,4 +1,5 @@
 title: "Custom aggregates: a couple tips and ORDER BY in 9.0"
+slug: custom-aggregates-a-couple-tips-and-order-by-in-9-0
 id: 2059
 date: 2010-09-30 16:09:17
 tags: 

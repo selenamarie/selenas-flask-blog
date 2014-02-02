@@ -1,4 +1,5 @@
 title: "me"
+slug: me
 id: 34
 date: 2007-05-04 09:03:41
 tags: 

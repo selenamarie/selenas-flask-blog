@@ -1,4 +1,5 @@
 title: "Wikipedia Edit-a-thon in Portland, April 21, 11-3pm, P-I-E"
+slug: wikipedia-edit-a-thon-in-portland-april-21-11-3pm-p-i-e
 id: 4090
 date: 2012-04-16 08:31:39
 tags: 

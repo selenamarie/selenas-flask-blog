@@ -1,4 +1,5 @@
 title: "website design and layout article"
+slug: website-design-and-layout-article
 id: 74
 date: 2007-02-27 08:24:41
 tags: 

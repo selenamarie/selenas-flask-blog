@@ -1,4 +1,5 @@
 title: "a look at carbon footprint"
+slug: a-look-at-carbon-footprint
 id: 59
 date: 2007-03-23 14:23:08
 tags: 

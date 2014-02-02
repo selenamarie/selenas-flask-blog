@@ -1,4 +1,5 @@
 title: "Thoughts on PostgreSQL 9.0 release"
+slug: thoughts-on-9-0-release
 id: 1906
 date: 2010-10-11 06:51:20
 tags: 

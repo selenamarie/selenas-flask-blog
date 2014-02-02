@@ -1,4 +1,5 @@
 title: "PDX tech scene community facilitation"
+slug: pdx-tech-scene-community-facilitation
 id: 1612
 date: 2010-05-01 08:00:26
 tags: 

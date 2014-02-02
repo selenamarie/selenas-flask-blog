@@ -1,4 +1,5 @@
 title: "relational algebra talk last night was awesome"
+slug: relational-algebra-talk-last-night-was-awesome
 id: 142
 date: 2007-09-21 07:27:22
 tags: 

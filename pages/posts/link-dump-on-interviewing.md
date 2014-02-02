@@ -1,4 +1,5 @@
 title: "link dump on interviewing"
+slug: link-dump-on-interviewing
 id: 83
 date: 2007-06-05 15:24:10
 tags: 

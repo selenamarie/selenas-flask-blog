@@ -1,4 +1,5 @@
 title: "GSoC 2011, accepting submissions starting March 28!"
+slug: gsoc-2011-accepting-submissions-starting-march-28
 id: 2737
 date: 2011-03-19 11:30:32
 tags: 

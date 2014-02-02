@@ -1,4 +1,5 @@
 title: "PostgreSQL Conference Fall 2007 - Where to eat lunch"
+slug: postgresql-conference-fall-2007-where-to-eat-lunch
 id: 154
 date: 2007-10-10 08:57:58
 tags: 

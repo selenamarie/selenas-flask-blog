@@ -1,4 +1,5 @@
 title: "Roadtrip to LinuxFest NW with PostgreSQL!"
+slug: roadtrip-to-linuxfest-nw-with-postgresql
 id: 310
 date: 2008-04-22 09:36:39
 tags: 

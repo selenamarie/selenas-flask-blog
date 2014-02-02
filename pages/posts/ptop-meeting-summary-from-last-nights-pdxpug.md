@@ -1,4 +1,5 @@
 title: "ptop - meeting summary from last nights pdxpug"
+slug: ptop-meeting-summary-from-last-nights-pdxpug
 id: 175
 date: 2007-11-16 10:04:04
 tags: 

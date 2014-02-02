@@ -1,4 +1,5 @@
 title: "Need reviewers - preparing for the first commitfest for 9.1"
+slug: need-reviewers-preparing-for-the-first-commitfest-for-9-1
 id: 1696
 date: 2010-05-20 10:32:47
 tags: 

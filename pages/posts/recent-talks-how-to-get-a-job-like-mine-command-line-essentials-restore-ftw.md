@@ -1,4 +1,5 @@
 title: "Recent talks: How to get a job like mine, Command-line essentials, Restore FTW"
+slug: recent-talks-how-to-get-a-job-like-mine-command-line-essentials-restore-ftw
 id: 4657
 date: 2013-02-23 11:01:44
 tags: 

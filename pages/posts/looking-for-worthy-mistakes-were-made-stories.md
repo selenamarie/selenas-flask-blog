@@ -1,4 +1,5 @@
 title: "Looking for worthy \"mistakes were made\" stories"
+slug: looking-for-worthy-mistakes-were-made-stories
 id: 3220
 date: 2011-07-08 07:33:06
 tags: 

@@ -1,4 +1,5 @@
 title: "Migrations with Alembic: a lightspeed tour"
+slug: migrations-with-alembic-a-lightspeed-tour
 id: 4761
 date: 2013-05-17 12:44:46
 tags: 

@@ -1,4 +1,5 @@
 title: "Catalog SQL Friday: using DO when we've got tables as variables"
+slug: catalog-sql-friday-using-do-when-weve-got-tables-as-variables
 id: 4963
 date: 2013-08-16 11:46:46
 tags: 

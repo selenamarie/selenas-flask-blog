@@ -1,4 +1,5 @@
 title: "9.1 beta 1 is out! Help us test."
+slug: 9-1-beta-1-is-out-help-us-test
 id: 2948
 date: 2011-05-02 08:27:23
 tags: 

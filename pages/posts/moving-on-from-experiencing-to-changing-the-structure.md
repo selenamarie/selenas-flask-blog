@@ -1,4 +1,5 @@
 title: "moving on from experiencing to changing the structure"
+slug: moving-on-from-experiencing-to-changing-the-structure
 id: 102
 date: 2007-07-24 22:02:24
 tags: 

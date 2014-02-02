@@ -1,4 +1,5 @@
 title: "Invited lecture at Oregon State University: PostgreSQL"
+slug: invited-lecture-at-oregon-state-university-postgresql
 id: 2499
 date: 2011-02-08 11:08:45
 tags: 

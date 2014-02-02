@@ -1,4 +1,5 @@
 title: "2010: pictures from the past inspiring me this year"
+slug: 2010-pictures-from-the-past-inspiring-me-this-year
 id: 1377
 date: 2010-01-11 18:31:01
 tags: 

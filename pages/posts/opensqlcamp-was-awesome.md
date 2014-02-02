@@ -1,4 +1,5 @@
 title: "OpenSQLCamp was awesome!"
+slug: opensqlcamp-was-awesome
 id: 1293
 date: 2009-11-16 14:00:46
 tags: 

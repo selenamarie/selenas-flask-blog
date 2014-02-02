@@ -1,4 +1,5 @@
 title: "color meter"
+slug: color-meter
 id: 29
 date: 2007-05-09 10:39:06
 tags: 

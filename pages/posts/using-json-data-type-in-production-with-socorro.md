@@ -1,4 +1,5 @@
 title: "Using JSON data type in production with Socorro"
+slug: using-json-data-type-in-production-with-socorro
 id: 4888
 date: 2013-08-06 06:19:38
 tags: 

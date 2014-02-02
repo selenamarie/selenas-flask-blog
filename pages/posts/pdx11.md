@@ -1,4 +1,5 @@
 title: "#PDX11: Turning things up a notch for Portland's \"software cluster\""
+slug: pdx11
 id: 2231
 date: 2010-11-10 08:55:54
 tags: 

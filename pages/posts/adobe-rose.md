@@ -1,4 +1,5 @@
 title: "adobe rose"
+slug: adobe-rose
 id: 39
 date: 2007-04-23 11:31:23
 tags: 

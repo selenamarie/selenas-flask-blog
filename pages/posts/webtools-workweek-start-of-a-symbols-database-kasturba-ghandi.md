@@ -1,4 +1,5 @@
 title: "WebTools workweek, start of a symbols database, Kasturba Ghandi"
+slug: webtools-workweek-start-of-a-symbols-database-kasturba-ghandi
 id: 4646
 date: 2013-02-09 18:49:44
 tags: 

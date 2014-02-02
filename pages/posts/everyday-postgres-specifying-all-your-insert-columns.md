@@ -1,4 +1,5 @@
 title: "Everyday Postgres: Specifying all your INSERT columns"
+slug: everyday-postgres-specifying-all-your-insert-columns
 id: 5137
 date: 2014-01-14 13:11:16
 tags: 

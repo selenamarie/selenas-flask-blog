@@ -1,4 +1,5 @@
 title: "Calagator, Ignite Portland, new PUGS site, geek2geek, SCALE -- whew!"
+slug: calagator-ignite-portland-new-pugs-site-geek2geek-scale-whew
 id: 206
 date: 2008-01-28 17:45:29
 tags: 

@@ -1,4 +1,5 @@
 title: "PgCon 2009: Lighning Talks! Call for participation"
+slug: pgcon-2009-lighning-talks-call-for-participation
 id: 951
 date: 2009-05-12 20:16:06
 tags: 

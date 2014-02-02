@@ -1,4 +1,5 @@
 title: "Pluggable architecture, not just for code"
+slug: pluggable-architecture-not-just-for-code
 id: 430
 date: 2008-07-30 10:21:42
 tags: 

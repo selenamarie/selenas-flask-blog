@@ -1,4 +1,5 @@
 title: "non-profits and systems administration"
+slug: non-profits-and-systems-administration
 id: 118
 date: 2007-08-11 21:38:48
 tags: 

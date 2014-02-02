@@ -1,4 +1,5 @@
 title: "Setting up HBase for Socorro"
+slug: setting-up-hbase-for-socorro
 id: 4582
 date: 2013-01-20 19:57:17
 tags: 

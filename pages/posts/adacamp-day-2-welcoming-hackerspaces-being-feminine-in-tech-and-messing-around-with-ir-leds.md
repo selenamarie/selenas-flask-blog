@@ -1,4 +1,5 @@
 title: "AdaCamp Day 2: Welcoming hackerspaces, Being Feminine in Tech and messing around with IR LEDs"
+slug: adacamp-day-2-welcoming-hackerspaces-being-feminine-in-tech-and-messing-around-with-ir-leds
 id: 4858
 date: 2013-06-24 07:12:15
 tags: 

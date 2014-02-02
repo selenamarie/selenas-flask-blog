@@ -1,4 +1,5 @@
 title: "PgCon in Ottawa - following people on twitter"
+slug: pgcon-in-ottawa-following-people-on-twitter
 id: 348
 date: 2008-05-22 06:27:03
 tags: 

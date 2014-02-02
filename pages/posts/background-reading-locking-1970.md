@@ -1,4 +1,5 @@
 title: "Background reading: Locking (1970)"
+slug: background-reading-locking-1970
 id: 1928
 date: 2010-09-03 08:00:09
 tags: 

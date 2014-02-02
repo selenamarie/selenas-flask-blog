@@ -1,4 +1,5 @@
 title: "participation in open source, any worse than the rest of the industry?"
+slug: participation-in-open-source-any-worse-than-the-rest-of-the-industry
 id: 148
 date: 2007-10-01 07:34:21
 tags: 

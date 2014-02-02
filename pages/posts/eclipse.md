@@ -1,4 +1,5 @@
 title: "eclipse!"
+slug: eclipse
 id: 216
 date: 2008-02-20 12:59:54
 tags: 

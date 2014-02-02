@@ -1,4 +1,5 @@
 title: "The problems with copyright re-assignment"
+slug: the-problems-with-copyright-re-assignment
 id: 2034
 date: 2010-10-08 07:00:11
 tags: 

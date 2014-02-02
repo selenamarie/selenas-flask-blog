@@ -1,4 +1,5 @@
 title: "Inheritance and sharding with Postgres"
+slug: inheritance-and-sharding-with-postgres
 id: 3757
 date: 2012-03-14 08:34:03
 tags: 

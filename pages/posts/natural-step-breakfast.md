@@ -1,4 +1,5 @@
 title: "natural step breakfast"
+slug: natural-step-breakfast
 id: 85
 date: 2007-06-07 14:45:12
 tags: 

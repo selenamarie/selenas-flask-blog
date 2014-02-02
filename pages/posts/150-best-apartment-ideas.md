@@ -1,4 +1,5 @@
 title: "150 best apartment ideas"
+slug: 150-best-apartment-ideas
 id: 49
 date: 2007-04-05 12:13:35
 tags: 

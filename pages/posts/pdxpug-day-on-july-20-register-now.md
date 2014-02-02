@@ -1,4 +1,5 @@
 title: "PDXPUG Day on July 20 - Register now!"
+slug: pdxpug-day-on-july-20-register-now
 id: 403
 date: 2008-07-10 06:01:15
 tags: 

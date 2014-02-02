@@ -1,4 +1,5 @@
 title: "conference aftermath: tired, happy "
+slug: conference-aftermath-tired-happy
 id: 164
 date: 2007-10-22 07:47:38
 tags: 

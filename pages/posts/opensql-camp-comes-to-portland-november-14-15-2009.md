@@ -1,4 +1,5 @@
 title: "OpenSQL Camp comes to Portland! November 14-15, 2009"
+slug: opensql-camp-comes-to-portland-november-14-15-2009
 id: 1103
 date: 2009-07-29 14:20:19
 tags: 

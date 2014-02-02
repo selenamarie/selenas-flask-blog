@@ -1,4 +1,5 @@
 title: "kaizen and change"
+slug: kaizen-and-change
 id: 114
 date: 2007-08-08 18:13:37
 tags: 

@@ -1,4 +1,5 @@
 title: "#PDX11 going strong, and a site update: feeds for mailing lists"
+slug: pdx11-going-strong-and-a-site-update-feeds-for-mailing-lists
 id: 2397
 date: 2011-01-23 08:20:11
 tags: 

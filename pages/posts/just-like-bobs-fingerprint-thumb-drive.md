@@ -1,4 +1,5 @@
 title: "just like Bob's fingerprint thumb drive"
+slug: just-like-bobs-fingerprint-thumb-drive
 id: 76
 date: 2007-02-26 07:44:23
 tags: 

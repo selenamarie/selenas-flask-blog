@@ -1,4 +1,5 @@
 title: "My thoughts about community management"
+slug: my-thoughts-about-community-management
 id: 1112
 date: 2009-07-30 08:24:05
 tags: 

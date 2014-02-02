@@ -1,4 +1,5 @@
 title: "Getting ready for OSCON, code of conduct and cultural change"
+slug: getting-ready-for-oscon-code-of-conduct-and-cultural-change
 id: 3247
 date: 2011-07-23 11:20:30
 tags: 

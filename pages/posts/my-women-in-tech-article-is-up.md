@@ -1,4 +1,5 @@
 title: "my women in tech article is up!"
+slug: my-women-in-tech-article-is-up
 id: 147
 date: 2007-09-28 06:58:41
 tags: 

@@ -1,4 +1,5 @@
 title: "Note from Nashville"
+slug: note-from-nashville
 id: 2710
 date: 2011-03-16 05:18:13
 tags: 

@@ -1,4 +1,5 @@
 title: "PostgreSQL Conference Fall 2007 - only two more days"
+slug: postgresql-conference-fall-2007-only-two-more-days
 id: 162
 date: 2007-10-18 06:12:50
 tags: 

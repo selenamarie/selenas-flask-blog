@@ -1,4 +1,5 @@
 title: "Hot Standby features for 9.1, just committed: Pause and Resume"
+slug: hot-standby-features-for-9-1-just-committed-pause-and-resume
 id: 2533
 date: 2011-02-10 09:21:33
 tags: 

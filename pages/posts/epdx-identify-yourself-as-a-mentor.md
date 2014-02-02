@@ -1,4 +1,5 @@
 title: "ePDX - Identify yourself as a mentor"
+slug: epdx-identify-yourself-as-a-mentor
 id: 3136
 date: 2011-06-06 13:10:34
 tags: 

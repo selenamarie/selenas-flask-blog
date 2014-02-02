@@ -1,4 +1,5 @@
 title: "Postgres Open CFP extended 1 week!"
+slug: postgres-open-cfp-extended-1-week
 id: 4272
 date: 2012-06-27 11:41:44
 tags: 

@@ -1,4 +1,5 @@
 title: "Confronting prevailing wisdom"
+slug: confronting-prevailing-wisdom
 id: 25
 date: 2007-05-14 09:57:14
 tags: 

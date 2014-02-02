@@ -1,4 +1,5 @@
 title: "PostgreSQL Conference - Keynote commentary"
+slug: postgresql-conerence-keynote-commentary
 id: 269
 date: 2008-04-01 08:04:01
 tags: 

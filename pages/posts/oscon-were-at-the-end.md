@@ -1,4 +1,5 @@
 title: "OSCON: We're at the end..."
+slug: oscon-were-at-the-end
 id: 3264
 date: 2011-07-29 12:42:41
 tags: 

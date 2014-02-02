@@ -1,4 +1,5 @@
 title: "UpdatePDX: NOSQL, operational complexity and hiring"
+slug: updatepdx-nosql-operational-complexity-and-hiring
 id: 2855
 date: 2011-04-05 06:02:22
 tags: 

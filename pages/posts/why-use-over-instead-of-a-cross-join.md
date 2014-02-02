@@ -1,4 +1,5 @@
 title: "Fancy SQL Monday: Why use OVER() instead of a CROSS JOIN?"
+slug: why-use-over-instead-of-a-cross-join
 id: 4964
 date: 2013-08-05 15:44:33
 tags: 

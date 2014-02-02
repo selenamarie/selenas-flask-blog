@@ -1,4 +1,5 @@
 title: "a women-focused users group: the very, very beginning"
+slug: a-women-focused-users-group-the-very-very-beginning
 id: 127
 date: 2007-08-30 00:05:54
 tags: 

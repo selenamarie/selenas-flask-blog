@@ -1,4 +1,5 @@
 title: "Packing list for LCA 2012"
+slug: packing-list-for-lca-2012
 id: 3516
 date: 2012-01-09 17:08:14
 tags: 

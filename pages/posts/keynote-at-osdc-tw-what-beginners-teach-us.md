@@ -1,4 +1,5 @@
 title: "Keynote at OSDC.tw: What Beginners Teach Us"
+slug: keynote-at-osdc-tw-what-beginners-teach-us
 id: 4760
 date: 2013-04-25 07:12:32
 tags: 

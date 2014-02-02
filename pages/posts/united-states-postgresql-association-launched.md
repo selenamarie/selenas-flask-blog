@@ -1,4 +1,5 @@
 title: "United States PostgreSQL Association launched!"
+slug: united-states-postgresql-association-launched
 id: 243
 date: 2008-03-13 09:19:22
 tags: 

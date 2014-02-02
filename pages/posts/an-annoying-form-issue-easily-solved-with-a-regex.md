@@ -1,4 +1,5 @@
 title: "an annoying form issue, easily solved with a regex"
+slug: an-annoying-form-issue-easily-solved-with-a-regex
 id: 141
 date: 2007-10-12 00:40:03
 tags: 

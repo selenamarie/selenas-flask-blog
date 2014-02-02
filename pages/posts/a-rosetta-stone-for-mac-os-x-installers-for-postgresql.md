@@ -1,4 +1,5 @@
 title: "A rosetta stone for Mac OS X installers for PostgreSQL"
+slug: a-rosetta-stone-for-mac-os-x-installers-for-postgresql
 id: 4489
 date: 2012-11-13 19:32:22
 tags: 

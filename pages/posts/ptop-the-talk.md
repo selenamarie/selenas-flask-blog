@@ -1,4 +1,5 @@
 title: "ptop - the talk"
+slug: ptop-the-talk
 id: 279
 date: 2008-04-06 06:32:02
 tags: 

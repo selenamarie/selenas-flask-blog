@@ -1,4 +1,5 @@
 title: "Leveling up: handling conflict like a boss"
+slug: leveling-up-handling-conflict-like-a-boss
 id: 4290
 date: 2012-08-03 12:40:50
 tags: 

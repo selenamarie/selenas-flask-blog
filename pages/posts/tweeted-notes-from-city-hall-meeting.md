@@ -1,4 +1,5 @@
 title: "Tweeted notes from City Hall meeting"
+slug: tweeted-notes-from-city-hall-meeting
 id: 2314
 date: 2010-12-03 11:20:33
 tags: 

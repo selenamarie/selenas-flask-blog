@@ -1,4 +1,5 @@
 title: "light bulb philanthropy"
+slug: light-bulb-philanthropy
 id: 62
 date: 2007-03-26 10:53:48
 tags: 

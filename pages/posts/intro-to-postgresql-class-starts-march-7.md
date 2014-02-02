@@ -1,4 +1,5 @@
 title: "Intro to PostgreSQL class starts March 7!"
+slug: intro-to-postgresql-class-starts-march-7
 id: 2654
 date: 2011-03-01 21:13:00
 tags: 

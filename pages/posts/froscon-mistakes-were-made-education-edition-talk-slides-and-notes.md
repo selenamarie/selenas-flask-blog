@@ -1,4 +1,5 @@
 title: "FrOSCon: Mistakes were Made: Education Edition talk slides and notes"
+slug: froscon-mistakes-were-made-education-edition-talk-slides-and-notes
 id: 4401
 date: 2012-08-26 14:01:34
 tags: 

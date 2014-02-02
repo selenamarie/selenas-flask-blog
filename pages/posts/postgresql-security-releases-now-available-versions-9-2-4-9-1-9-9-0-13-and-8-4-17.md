@@ -1,4 +1,5 @@
 title: "PostgreSQL security releases now available: versions 9.2.4, 9.1.9, 9.0.13 and 8.4.17"
+slug: postgresql-security-releases-now-available-versions-9-2-4-9-1-9-9-0-13-and-8-4-17
 id: 4744
 date: 2013-04-04 05:43:39
 tags: 

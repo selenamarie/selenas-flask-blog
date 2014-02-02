@@ -1,4 +1,5 @@
 title: "What's changed? Portland as an example of increasing women's participation."
+slug: whats-changed-portland-as-an-example-of-increasing-womens-participation
 id: 912
 date: 2009-04-29 07:39:14
 tags: 

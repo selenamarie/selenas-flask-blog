@@ -1,4 +1,5 @@
 title: "Fancy SQL Monday: format() instead of quote_*()"
+slug: fancy-sql-monday-format-instead-of-quote_
 id: 5011
 date: 2013-08-26 08:29:35
 tags: 

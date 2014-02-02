@@ -1,4 +1,5 @@
 title: "the virtues of walks"
+slug: the-virtues-of-walks
 id: 13
 date: 2007-01-21 20:32:33
 tags: 

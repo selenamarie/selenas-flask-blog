@@ -1,4 +1,5 @@
 title: "meme: Current state of me"
+slug: meme-current-state-of-me
 id: 589
 date: 2009-01-01 22:16:39
 tags: 

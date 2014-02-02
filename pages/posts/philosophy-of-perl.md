@@ -1,4 +1,5 @@
 title: "philosophy of perl"
+slug: philosophy-of-perl
 id: 33
 date: 2007-05-07 15:05:43
 tags: 

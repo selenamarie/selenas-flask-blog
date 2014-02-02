@@ -1,4 +1,5 @@
 title: "Training lessons learned: Code dojo, whiteboards, interactivity "
+slug: training-lessons-learned-code-dojo-whiteboards-interactivity
 id: 1684
 date: 2010-10-07 07:00:03
 tags: 

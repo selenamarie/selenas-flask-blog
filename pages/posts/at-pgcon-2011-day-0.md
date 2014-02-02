@@ -1,4 +1,5 @@
 title: "At PgCon 2011 - day 0 "
+slug: at-pgcon-2011-day-0
 id: 2995
 date: 2011-05-16 19:23:21
 tags: 

@@ -1,4 +1,5 @@
 title: "First day in NYC for #pgeast"
+slug: first-day-in-nyc-for-pgeast
 id: 2755
 date: 2011-03-23 07:35:22
 tags: 

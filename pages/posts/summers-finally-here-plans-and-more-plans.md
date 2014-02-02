@@ -1,4 +1,5 @@
 title: "Summer's finally here: Plans and more plans"
+slug: summers-finally-here-plans-and-more-plans
 id: 3074
 date: 2011-06-05 14:52:59
 tags: 

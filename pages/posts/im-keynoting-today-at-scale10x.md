@@ -1,4 +1,5 @@
 title: "I'm keynoting today at SCALE10x"
+slug: im-keynoting-today-at-scale10x
 id: 3637
 date: 2012-01-22 09:17:57
 tags: 

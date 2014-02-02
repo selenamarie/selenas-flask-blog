@@ -1,4 +1,5 @@
 title: "What I'm going to see at PostgreSQL Conference West"
+slug: what-im-going-to-see-at-postgresql-conference-west
 id: 479
 date: 2008-10-01 14:55:50
 tags: 

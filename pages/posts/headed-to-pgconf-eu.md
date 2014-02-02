@@ -1,4 +1,5 @@
 title: "Headed to PgConf.EU"
+slug: headed-to-pgconf-eu
 id: 3382
 date: 2011-10-17 07:16:21
 tags: 

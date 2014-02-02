@@ -1,4 +1,5 @@
 title: "I am a feminist hacker: Reflections on the first AdaCamp"
+slug: i-am-a-feminist-hacker-reflections-on-the-first-adacamp
 id: 3610
 date: 2012-01-20 15:38:19
 tags: 

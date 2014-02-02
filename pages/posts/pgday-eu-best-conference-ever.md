@@ -1,4 +1,5 @@
 title: "PgDay EU - Best conference ever? "
+slug: pgday-eu-best-conference-ever
 id: 504
 date: 2008-10-20 15:09:52
 tags: 

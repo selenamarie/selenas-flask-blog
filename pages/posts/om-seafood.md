@@ -1,4 +1,5 @@
 title: "om seafood"
+slug: om-seafood
 id: 28
 date: 2007-05-09 14:21:30
 tags: 

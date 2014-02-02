@@ -1,4 +1,5 @@
 title: "Student Loan Sharks: Mohela is shady (but the CSR I talked to was really nice)"
+slug: mohela-is-shady
 id: 3727
 date: 2012-02-23 16:12:20
 tags: 

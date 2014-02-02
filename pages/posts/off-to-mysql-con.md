@@ -1,4 +1,5 @@
 title: "Off to MySQL Con"
+slug: off-to-mysql-con
 id: 855
 date: 2009-04-20 20:40:09
 tags: 

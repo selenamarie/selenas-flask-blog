@@ -1,4 +1,5 @@
 title: "Why I gave $1024 to the Ada Initiative"
+slug: why-i-gave-1024-to-the-ada-initiative
 id: 4986
 date: 2013-08-09 09:19:56
 tags: 

@@ -1,4 +1,5 @@
 title: "Giving Good Talks presentation"
+slug: giving-good-talks-presentation
 id: 1557
 date: 2010-03-20 10:02:57
 tags: 

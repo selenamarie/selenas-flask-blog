@@ -1,4 +1,5 @@
 title: "Who do you trust for business advice? "
+slug: who-do-you-trust-for-business-advice
 id: 4109
 date: 2012-04-11 08:48:29
 tags: 

@@ -1,4 +1,5 @@
 title: "Why PyLadies?"
+slug: why-pyladies
 id: 4661
 date: 2013-02-23 11:52:20
 tags: 

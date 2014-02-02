@@ -1,4 +1,5 @@
 title: "Day 2 at PgConf.EU: hallway track and the marketing of Postgres"
+slug: day-2-at-pgconf-eu
 id: 3396
 date: 2011-10-20 15:55:50
 tags: 

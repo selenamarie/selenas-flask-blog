@@ -1,4 +1,5 @@
 title: "gender diversity at web conferences"
+slug: gender-diversity-at-web-conferences
 id: 68
 date: 2007-03-02 12:04:57
 tags: 

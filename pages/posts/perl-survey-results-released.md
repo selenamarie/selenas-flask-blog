@@ -1,4 +1,5 @@
 title: "Perl Survey results released"
+slug: perl-survey-results-released
 id: 158
 date: 2007-10-13 11:02:04
 tags: 

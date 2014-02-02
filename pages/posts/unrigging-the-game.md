@@ -1,4 +1,5 @@
 title: "unrigging the game"
+slug: unrigging-the-game
 id: 36
 date: 2007-04-26 14:27:38
 tags: 

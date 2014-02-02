@@ -1,4 +1,5 @@
 title: "More about JavaScript and PostgreSQL"
+slug: more-about-javascript-and-postgresql
 id: 4849
 date: 2013-05-31 10:51:29
 tags: 

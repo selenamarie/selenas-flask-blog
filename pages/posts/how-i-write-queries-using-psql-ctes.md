@@ -1,4 +1,5 @@
 title: "Everyday Postgres: How I write queries using psql: Common Table Expressions"
+slug: how-i-write-queries-using-psql-ctes
 id: 5068
 date: 2013-11-12 08:46:34
 tags: 

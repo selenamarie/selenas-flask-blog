@@ -1,4 +1,5 @@
 title: "those canvas bags"
+slug: those-canvas-bags
 id: 144
 date: 2007-09-26 19:26:03
 tags: 

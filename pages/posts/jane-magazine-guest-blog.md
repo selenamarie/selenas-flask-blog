@@ -1,4 +1,5 @@
 title: "jane magazine guest blog"
+slug: jane-magazine-guest-blog
 id: 23
 date: 2007-05-18 15:40:03
 tags: 

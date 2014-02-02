@@ -1,4 +1,5 @@
 title: "Vacation, Dec 18-Jan 3"
+slug: vacation-dec-18-jan-3
 id: 2378
 date: 2010-12-16 23:13:09
 tags: 

@@ -1,4 +1,5 @@
 title: "scappoose school district to take on vernonia students"
+slug: scappoose-school-district-to-take-on-vernonia-students
 id: 200
 date: 2007-12-08 08:36:48
 tags: 

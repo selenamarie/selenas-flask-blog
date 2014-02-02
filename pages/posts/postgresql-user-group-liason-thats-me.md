@@ -1,4 +1,5 @@
 title: "PostgreSQL User Group Liaison - that's me!"
+slug: postgresql-user-group-liason-thats-me
 id: 205
 date: 2008-01-26 18:52:12
 tags: 

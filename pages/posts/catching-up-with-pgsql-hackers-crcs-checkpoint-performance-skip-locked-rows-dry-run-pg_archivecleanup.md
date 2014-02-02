@@ -1,4 +1,5 @@
 title: "Catching up with pgsql-hackers: CRCs, checkpoint performance, SKIP LOCKED ROWS, dry-run pg_archivecleanup"
+slug: catching-up-with-pgsql-hackers-crcs-checkpoint-performance-skip-locked-rows-dry-run-pg_archivecleanup
 id: 3686
 date: 2012-02-07 08:25:04
 tags: 

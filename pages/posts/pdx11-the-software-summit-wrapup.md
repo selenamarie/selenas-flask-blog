@@ -1,4 +1,5 @@
 title: "#PDX11: The software summit wrapup"
+slug: pdx11-the-software-summit-wrapup
 id: 2294
 date: 2010-12-02 22:00:41
 tags: 

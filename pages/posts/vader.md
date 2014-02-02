@@ -1,4 +1,5 @@
 title: "vader"
+slug: vader
 id: 60
 date: 2007-04-18 07:22:10
 tags: 

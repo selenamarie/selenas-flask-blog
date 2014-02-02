@@ -1,4 +1,5 @@
 title: "Activism in a giant, hierarchical bureaucracy: Lessons from a consultant to the millitary"
+slug: activism-in-a-giant-hierarchical-bureaucracy-lessons-from-a-consultant-to-the-millitary
 id: 4283
 date: 2012-07-31 18:16:27
 tags: 

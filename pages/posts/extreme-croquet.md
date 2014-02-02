@@ -1,4 +1,5 @@
 title: "extreme croquet"
+slug: extreme-croquet
 id: 81
 date: 2007-06-05 11:49:37
 tags: 

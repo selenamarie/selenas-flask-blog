@@ -1,4 +1,5 @@
 title: "Manufacturing Participation"
+slug: manufacturing-participation
 id: 942
 date: 2009-05-02 13:49:39
 tags: 

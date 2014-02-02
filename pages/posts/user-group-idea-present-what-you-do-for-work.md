@@ -1,4 +1,5 @@
 title: "User Group Idea: Present what you do for work"
+slug: user-group-idea-present-what-you-do-for-work
 id: 1156
 date: 2009-09-28 18:40:08
 tags: 

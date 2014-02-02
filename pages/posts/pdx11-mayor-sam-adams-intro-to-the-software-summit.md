@@ -1,4 +1,5 @@
 title: "#PDX11: Mayor Sam Adams' intro to the software summit"
+slug: pdx11-mayor-sam-adams-intro-to-the-software-summit
 id: 2319
 date: 2010-12-05 15:17:40
 tags: 

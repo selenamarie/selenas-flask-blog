@@ -1,4 +1,5 @@
 title: "Feminist reading: Creating a wiki page, reading"
+slug: feminist-reading-creating-a-wiki-page-reading
 id: 4431
 date: 2012-09-08 17:41:27
 tags: 

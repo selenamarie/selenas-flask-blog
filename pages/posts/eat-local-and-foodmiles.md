@@ -1,4 +1,5 @@
 title: "eat local and foodmiles"
+slug: eat-local-and-foodmiles
 id: 32
 date: 2007-05-07 16:00:07
 tags: 

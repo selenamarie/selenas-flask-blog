@@ -1,4 +1,5 @@
 title: "CivicIdeas for greater portland meetup May 27th, 6-8pm"
+slug: civicideas-for-greater-portland-meetup-may-27th-6-8pm
 id: 1681
 date: 2010-05-17 14:13:55
 tags: 

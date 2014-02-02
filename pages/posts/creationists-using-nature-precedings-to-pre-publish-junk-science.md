@@ -1,4 +1,5 @@
 title: "creationists using nature precedings to pre-publish junk science"
+slug: creationists-using-nature-precedings-to-pre-publish-junk-science
 id: 115
 date: 2007-08-09 22:16:17
 tags: 

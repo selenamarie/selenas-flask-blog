@@ -1,4 +1,5 @@
 title: "JOINing against VIEWs can be harmful"
+slug: joining-against-views-can-be-harmful
 id: 5046
 date: 2013-11-04 14:13:59
 tags: 

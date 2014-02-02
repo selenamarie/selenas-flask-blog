@@ -1,4 +1,5 @@
 title: "My nerd story: it ran in the family, but wasn't inevitable"
+slug: my-nerd-story-it-ran-in-the-family
 id: 5107
 date: 2014-01-08 05:00:18
 tags: 

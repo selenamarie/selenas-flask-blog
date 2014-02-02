@@ -1,4 +1,5 @@
 title: "Q&A about Hot Standby "
+slug: qa-about-hot-standby
 id: 1813
 date: 2010-07-12 20:17:16
 tags: 

@@ -1,4 +1,5 @@
 title: "Setting up a PDXAPI instance"
+slug: setting-up-a-pdxapi-instance
 id: 1738
 date: 2010-06-03 15:26:40
 tags: 

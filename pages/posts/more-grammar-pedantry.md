@@ -1,4 +1,5 @@
 title: "more grammar pedantry"
+slug: more-grammar-pedantry
 id: 53
 date: 2007-04-04 13:56:22
 tags: 

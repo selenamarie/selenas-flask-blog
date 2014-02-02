@@ -1,4 +1,5 @@
 title: "A mostly working Lenovo x230 running Ubuntu and Gnome3: Two weeks later"
+slug: a-mostly-working-lenovo-x230-running-ubuntu-and-gnome3-two-weeks-later
 id: 4501
 date: 2012-11-13 19:18:47
 tags: 

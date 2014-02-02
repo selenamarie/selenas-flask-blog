@@ -1,4 +1,5 @@
 title: "Open Source Bridge: Thank you all"
+slug: open-source-bridge-thank-you-all
 id: 1033
 date: 2009-06-20 13:32:51
 tags: 

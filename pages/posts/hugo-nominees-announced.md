@@ -1,4 +1,5 @@
 title: "hugo nominees announced"
+slug: hugo-nominees-announced
 id: 56
 date: 2007-03-30 14:56:49
 tags: 

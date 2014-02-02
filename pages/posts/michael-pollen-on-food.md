@@ -1,4 +1,5 @@
 title: "michael pollen on food"
+slug: michael-pollen-on-food
 id: 26
 date: 2007-05-10 10:22:54
 tags: 

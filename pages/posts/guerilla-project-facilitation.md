@@ -1,4 +1,5 @@
 title: "guerilla project facilitation"
+slug: guerilla-project-facilitation
 id: 43
 date: 2007-04-17 07:59:07
 tags: 

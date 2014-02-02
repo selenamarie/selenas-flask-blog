@@ -1,4 +1,5 @@
 title: "gut-wrenching photography, convergence on war"
+slug: gut-wrenching-photography-convergence-on-war
 id: 126
 date: 2007-08-25 21:16:43
 tags: 

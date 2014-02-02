@@ -1,4 +1,5 @@
 title: "back from the gulf coast"
+slug: back-from-the-gulf-coast
 id: 169
 date: 2007-11-06 09:35:09
 tags: 

@@ -1,4 +1,5 @@
 title: "Offline community, PUGs updates"
+slug: offline-community-pugs-updates
 id: 990
 date: 2009-06-01 07:07:54
 tags: 

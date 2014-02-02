@@ -1,4 +1,5 @@
 title: "At SCALE Feb 8-10"
+slug: at-scale-feb-8-10
 id: 211
 date: 2008-02-06 18:30:46
 tags: 

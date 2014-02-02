@@ -1,4 +1,5 @@
 title: "Cluster Developer Meeting recap "
+slug: cluster-developer-meeting-recap
 id: 1310
 date: 2009-11-19 17:37:35
 tags: 

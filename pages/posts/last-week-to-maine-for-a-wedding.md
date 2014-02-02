@@ -1,4 +1,5 @@
 title: "Last week: to Maine for a wedding"
+slug: last-week-to-maine-for-a-wedding
 id: 2035
 date: 2010-09-27 11:30:18
 tags: 

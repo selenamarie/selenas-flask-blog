@@ -1,4 +1,5 @@
 title: Hello World
+slug: hello-world
 date: 2013-10-19 08:53:59
 tags:
 

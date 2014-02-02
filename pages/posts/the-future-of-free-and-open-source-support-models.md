@@ -1,4 +1,5 @@
 title: "The future of free and open source support models"
+slug: the-future-of-free-and-open-source-support-models
 id: 872
 date: 2009-04-25 06:07:59
 tags: 

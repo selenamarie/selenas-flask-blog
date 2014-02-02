@@ -1,4 +1,5 @@
 title: "synchronized scanning talk"
+slug: synchronized-scanning-talk
 id: 120
 date: 2007-08-17 00:00:17
 tags: 

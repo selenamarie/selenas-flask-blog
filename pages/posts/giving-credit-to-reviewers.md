@@ -1,4 +1,5 @@
 title: "Why give credit to reviewers?"
+slug: giving-credit-to-reviewers
 id: 4884
 date: 2013-06-26 15:29:22
 tags: 

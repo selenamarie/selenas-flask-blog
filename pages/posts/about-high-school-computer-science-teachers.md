@@ -1,4 +1,5 @@
 title: "About high school computer science teachers"
+slug: about-high-school-computer-science-teachers
 id: 4716
 date: 2013-03-10 19:30:55
 tags: 

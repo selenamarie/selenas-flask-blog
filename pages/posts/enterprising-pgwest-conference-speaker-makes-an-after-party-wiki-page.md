@@ -1,4 +1,5 @@
 title: "Enterprising PgWest conference speaker makes an after-party wiki page!"
+slug: enterprising-pgwest-conference-speaker-makes-an-after-party-wiki-page
 id: 1215
 date: 2009-10-09 09:04:15
 tags: 

@@ -1,4 +1,5 @@
 title: "color"
+slug: color
 id: 14
 date: 2007-06-05 08:25:58
 tags: 

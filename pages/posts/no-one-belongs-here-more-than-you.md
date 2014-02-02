@@ -1,4 +1,5 @@
 title: "no one belongs here more than you"
+slug: no-one-belongs-here-more-than-you
 id: 44
 date: 2007-04-09 12:37:24
 tags: 

@@ -1,4 +1,5 @@
 title: "Dennis Richie passed away. "
+slug: dennis-richie-passed-away
 id: 3334
 date: 2011-10-12 18:53:39
 tags: 

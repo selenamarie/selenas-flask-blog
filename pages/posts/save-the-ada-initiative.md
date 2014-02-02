@@ -1,4 +1,5 @@
 title: "Save the Ada Initiative"
+slug: save-the-ada-initiative
 id: 4478
 date: 2012-10-30 07:19:49
 tags: 

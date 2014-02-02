@@ -1,4 +1,5 @@
 title: "PostgreSQL 9.0: contributions!"
+slug: postgresql-9-0-contributions
 id: 1997
 date: 2010-09-21 07:29:23
 tags: 

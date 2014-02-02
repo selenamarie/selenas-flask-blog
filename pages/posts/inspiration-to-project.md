@@ -1,4 +1,5 @@
 title: "Inspiration to project"
+slug: inspiration-to-project
 id: 982
 date: 2009-05-30 10:31:56
 tags: 

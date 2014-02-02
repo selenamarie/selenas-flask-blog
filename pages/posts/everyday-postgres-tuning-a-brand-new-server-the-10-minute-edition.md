@@ -1,4 +1,5 @@
 title: "Everyday Postgres: Tuning a brand-new server (the 10-minute edition)"
+slug: everyday-postgres-tuning-a-brand-new-server-the-10-minute-edition
 id: 5082
 date: 2013-11-13 12:03:45
 tags: 

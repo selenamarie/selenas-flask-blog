@@ -1,4 +1,5 @@
 title: "Postgres Open: next year (!), resources, video"
+slug: postgres-open-next-year-resources-video
 id: 3338
 date: 2011-09-19 09:58:10
 tags: 

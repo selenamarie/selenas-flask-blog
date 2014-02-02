@@ -1,4 +1,5 @@
 title: "the missing post from friday"
+slug: the-missing-post-from-friday
 id: 7
 date: 2006-09-29 17:00:14
 tags: 

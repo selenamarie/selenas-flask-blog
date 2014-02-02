@@ -1,4 +1,5 @@
 title: "How to Plurk"
+slug: how-to-plurk
 id: 370
 date: 2008-06-04 09:27:11
 tags: 

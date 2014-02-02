@@ -1,4 +1,5 @@
 title: "Facebook acquires Instagram (and a Postgres cluster) for $1billion"
+slug: facebook-acquires-instagram-and-a-postgres-cluster-for-1billion
 id: 4094
 date: 2012-04-09 09:26:10
 tags: 

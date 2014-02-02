@@ -1,4 +1,5 @@
 title: "Responding to offensive presentations at conferences"
+slug: responding-to-offensive-presentations-at-conferences
 id: 1171
 date: 2009-09-28 21:13:23
 tags: 

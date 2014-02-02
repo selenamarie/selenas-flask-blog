@@ -1,4 +1,5 @@
 title: "ptop hackathon, this saturday"
+slug: ptop-hackathon
 id: 176
 date: 2007-11-19 19:26:13
 tags: 

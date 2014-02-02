@@ -1,4 +1,5 @@
 title: "PostgreSQL conference in Portland on October 20th"
+slug: postgresql-conference-in-portland-on-october-20th
 id: 137
 date: 2007-09-17 21:25:07
 tags: 

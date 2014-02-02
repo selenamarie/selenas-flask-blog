@@ -1,4 +1,5 @@
 title: "AdaCamp day 1: Allies workshop, OPW, The likeability paradox and depression/activism"
+slug: adacamp-day-1-allies-workshop-opw-the-likeability-paradox-and-depressionactivism
 id: 4866
 date: 2013-06-09 06:51:15
 tags: 

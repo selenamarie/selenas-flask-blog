@@ -1,4 +1,5 @@
 title: "Speakers workshop at LibrePlanet next week!"
+slug: speakers-workshop-at-libreplanet-next-week
 id: 1498
 date: 2010-03-12 07:52:55
 tags: 

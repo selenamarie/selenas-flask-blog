@@ -1,4 +1,5 @@
 title: "Code review for the new PyLadies in your life"
+slug: code-review-for-the-new-pyladies-in-your-life
 id: 4528
 date: 2012-11-16 08:01:41
 tags: 

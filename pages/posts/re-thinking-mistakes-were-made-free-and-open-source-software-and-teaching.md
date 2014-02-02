@@ -1,4 +1,5 @@
 title: "Re-thinking \"Mistakes were made\": free and open source software and teaching"
+slug: re-thinking-mistakes-were-made-free-and-open-source-software-and-teaching
 id: 4317
 date: 2012-08-05 09:15:52
 tags: 

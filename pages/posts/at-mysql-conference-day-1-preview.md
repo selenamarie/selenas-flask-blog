@@ -1,4 +1,5 @@
 title: "At MySQL Conference: Day 1 preview"
+slug: at-mysql-conference-day-1-preview
 id: 2939
 date: 2011-04-12 06:53:17
 tags: 

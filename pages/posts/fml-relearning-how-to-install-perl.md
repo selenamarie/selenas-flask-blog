@@ -1,4 +1,5 @@
 title: "#fml: Relearning how to install perl"
+slug: fml-relearning-how-to-install-perl
 id: 3295
 date: 2011-08-15 14:23:14
 tags: 

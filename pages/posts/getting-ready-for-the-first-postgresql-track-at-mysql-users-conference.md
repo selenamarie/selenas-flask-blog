@@ -1,4 +1,5 @@
 title: "Getting ready for the first PostgreSQL track at MySQL Users Conference!"
+slug: getting-ready-for-the-first-postgresql-track-at-mysql-users-conference
 id: 2910
 date: 2011-04-06 05:53:20
 tags: 

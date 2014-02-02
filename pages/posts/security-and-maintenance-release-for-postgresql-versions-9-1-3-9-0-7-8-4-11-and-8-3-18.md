@@ -1,4 +1,5 @@
 title: "Security and maintenance release for PostgreSQL: versions 9.1.3, 9.0.7, 8.4.11 and 8.3.18"
+slug: security-and-maintenance-release-for-postgresql-versions-9-1-3-9-0-7-8-4-11-and-8-3-18
 id: 3740
 date: 2012-02-27 08:06:44
 tags: 

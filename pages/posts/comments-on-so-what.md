@@ -1,4 +1,5 @@
 title: "Comments on \"So What?\""
+slug: comments-on-so-what
 id: 132
 date: 2007-09-07 07:52:37
 tags: 

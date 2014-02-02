@@ -1,4 +1,5 @@
 title: "Abstract for PSU Tech Talk, Feb 1, 4pm"
+slug: abstract-for-psu-tech-talk-feb-1-4pm
 id: 4599
 date: 2013-01-18 16:49:24
 tags: 

@@ -1,4 +1,5 @@
 title: "Women in Tech series from O'Reilly"
+slug: women-in-tech-series-from-oreilly
 id: 128
 date: 2007-09-04 08:12:46
 tags: 

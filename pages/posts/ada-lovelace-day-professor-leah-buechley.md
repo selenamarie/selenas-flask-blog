@@ -1,4 +1,5 @@
 title: "Ada Lovelace Day: Professor Leah Buechley"
+slug: ada-lovelace-day-professor-leah-buechley
 id: 1564
 date: 2010-03-24 15:15:08
 tags: 

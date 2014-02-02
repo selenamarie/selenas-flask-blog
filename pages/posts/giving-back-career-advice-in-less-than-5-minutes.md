@@ -1,4 +1,5 @@
 title: "Giving back: \"Career advice in less than 5 minutes\""
+slug: giving-back-career-advice-in-less-than-5-minutes
 id: 4359
 date: 2012-08-15 08:44:53
 tags: 

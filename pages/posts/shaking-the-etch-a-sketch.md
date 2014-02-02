@@ -1,4 +1,5 @@
 title: "Shaking the etch-a-sketch"
+slug: shaking-the-etch-a-sketch
 id: 3207
 date: 2011-07-12 18:58:06
 tags: 

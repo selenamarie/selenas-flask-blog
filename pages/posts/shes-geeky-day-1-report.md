@@ -1,4 +1,5 @@
 title: "She's geeky: day 1 report"
+slug: shes-geeky-day-1-report
 id: 2420
 date: 2011-01-29 07:52:42
 tags: 

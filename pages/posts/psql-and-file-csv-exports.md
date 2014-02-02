@@ -1,4 +1,5 @@
 title: "psql and file, CSV exports"
+slug: psql-and-file-csv-exports
 id: 159
 date: 2007-10-13 16:53:20
 tags: 

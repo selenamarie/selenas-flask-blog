@@ -1,4 +1,5 @@
 title: "Where to find me at #LCA2012"
+slug: where-to-find-me-at-lca2012
 id: 3580
 date: 2012-01-10 16:51:10
 tags: 

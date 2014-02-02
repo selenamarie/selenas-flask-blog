@@ -1,4 +1,5 @@
 title: "\"This story seems too negative. Can you fix that?\""
+slug: this-story-seems-too-negative-can-you-fix-that
 id: 3698
 date: 2012-02-16 08:39:46
 tags: 

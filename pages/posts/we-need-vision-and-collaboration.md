@@ -1,4 +1,5 @@
 title: "We need vision and collaboration"
+slug: we-need-vision-and-collaboration
 id: 1531
 date: 2010-03-19 09:00:49
 tags: 

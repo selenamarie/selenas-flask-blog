@@ -1,4 +1,5 @@
 title: "Next two weeks"
+slug: next-two-weeks
 id: 2708
 date: 2011-03-12 17:40:33
 tags: 

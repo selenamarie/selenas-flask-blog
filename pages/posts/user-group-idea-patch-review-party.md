@@ -1,4 +1,5 @@
 title: "User Group Idea: Patch Review Party"
+slug: user-group-idea-patch-review-party
 id: 1137
 date: 2009-09-18 10:18:57
 tags: 

@@ -1,4 +1,5 @@
 title: "User Group Idea: The After-party"
+slug: user-group-idea-the-after-party
 id: 1201
 date: 2009-10-04 19:38:21
 tags: 

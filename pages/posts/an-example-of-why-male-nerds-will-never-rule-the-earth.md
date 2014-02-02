@@ -1,4 +1,5 @@
 title: "an example of why male nerds will never rule the earth"
+slug: an-example-of-why-male-nerds-will-never-rule-the-earth
 id: 19
 date: 2007-05-22 11:39:57
 tags: 

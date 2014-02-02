@@ -1,4 +1,5 @@
 title: "PgCon Pub Track: Learning more about Synchronous Replication"
+slug: pgcon-pub-track-learning-more-about-synchronous-replication
 id: 3007
 date: 2011-05-21 11:00:44
 tags: 

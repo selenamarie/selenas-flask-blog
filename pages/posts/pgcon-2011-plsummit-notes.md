@@ -1,4 +1,5 @@
 title: "PgCon 2011: PL/Summit notes"
+slug: pgcon-2011-plsummit-notes
 id: 3037
 date: 2011-05-22 08:24:40
 tags: 

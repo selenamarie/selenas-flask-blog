@@ -1,4 +1,5 @@
 title: "five favorite podcasts from mark frauenfelder"
+slug: five-favorite-podcasts-from-mark-frauenfelder
 id: 64
 date: 2007-03-22 15:49:10
 tags: 

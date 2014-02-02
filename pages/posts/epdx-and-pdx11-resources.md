@@ -1,4 +1,5 @@
 title: "ePDX and #PDX11 resources!"
+slug: epdx-and-pdx11-resources
 id: 3124
 date: 2011-06-09 15:13:32
 tags: 

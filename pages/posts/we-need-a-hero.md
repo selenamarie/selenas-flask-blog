@@ -1,4 +1,5 @@
 title: "we need a hero"
+slug: we-need-a-hero
 id: 103
 date: 2007-07-26 08:09:48
 tags: 

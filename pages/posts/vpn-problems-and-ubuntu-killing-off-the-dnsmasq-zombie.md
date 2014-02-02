@@ -1,4 +1,5 @@
 title: "VPN Problems and Ubuntu: killing off the dnsmasq zombie"
+slug: vpn-problems-and-ubuntu-killing-off-the-dnsmasq-zombie
 id: 5027
 date: 2013-10-18 10:58:53
 tags: 

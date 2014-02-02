@@ -1,4 +1,5 @@
 title: "What works? Getting more women involved in open source."
+slug: what-works-getting-more-women-involved-in-open-source
 id: 890
 date: 2009-04-27 16:32:42
 tags: 

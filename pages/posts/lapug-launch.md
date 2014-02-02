@@ -1,4 +1,5 @@
 title: "LAPUG Launch!"
+slug: lapug-launch
 id: 213
 date: 2008-02-11 11:15:20
 tags: 

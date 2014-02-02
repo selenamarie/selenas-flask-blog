@@ -1,4 +1,5 @@
 title: "automatic character set conversion in postgresql"
+slug: automatic-character-set-conversion-in-postgresql
 id: 174
 date: 2007-11-14 16:36:04
 tags: 

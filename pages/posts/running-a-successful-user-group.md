@@ -1,4 +1,5 @@
 title: "Running a Successful User Group"
+slug: running-a-successful-user-group
 id: 425
 date: 2008-07-27 10:49:34
 tags: 

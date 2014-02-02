@@ -1,4 +1,5 @@
 title: "Reflections on a negotiation workshop: we're better at it than we know"
+slug: reflections-on-a-negotiation-workshop-were-better-at-it-than-we-know
 id: 3300
 date: 2011-08-01 21:27:54
 tags: 

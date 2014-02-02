@@ -1,4 +1,5 @@
 title: "sharing data"
+slug: sharing-data
 id: 101
 date: 2007-07-20 00:36:42
 tags: 

@@ -1,4 +1,5 @@
 title: "Leading without being in charge: updated slides for FOSDEM 2009"
+slug: leading-without-being-in-charge-updated-slides-for-fosdem-2009
 id: 668
 date: 2009-02-09 14:59:08
 tags: 

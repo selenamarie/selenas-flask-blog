@@ -1,4 +1,5 @@
 title: "Greg's THREE talks at PostgreSQL Conference East"
+slug: gregs-three-talks-at-postgresql-conference-east
 id: 820
 date: 2009-04-02 16:36:24
 tags: 

@@ -1,4 +1,5 @@
 title: "haskell!"
+slug: haskell
 id: 131
 date: 2007-09-06 06:46:57
 tags: 

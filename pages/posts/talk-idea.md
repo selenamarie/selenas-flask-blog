@@ -1,4 +1,5 @@
 title: "talk idea"
+slug: talk-idea
 id: 41
 date: 2007-04-20 09:38:55
 tags: 

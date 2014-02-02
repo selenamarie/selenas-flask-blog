@@ -1,4 +1,5 @@
 title: "What features do developers get excited about in Postgres?"
+slug: what-features-do-developers-get-excited-about-in-postgres
 id: 4409
 date: 2012-09-06 07:14:03
 tags: 

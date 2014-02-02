@@ -1,4 +1,5 @@
 title: "Day 0: PgConf.EU"
+slug: day-0-pgconf-eu
 id: 3386
 date: 2011-10-18 22:46:42
 tags: 

@@ -1,4 +1,5 @@
 title: "xppdx - dipping a toe in the water"
+slug: xppdx-dipping-a-toe-in-the-water
 id: 139
 date: 2007-09-19 22:53:42
 tags: 

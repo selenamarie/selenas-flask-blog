@@ -1,4 +1,5 @@
 title: "Open Source Bridge hackathon on Sunday"
+slug: open-source-bridge-hackathon-on-sunday
 id: 796
 date: 2009-03-19 16:27:39
 tags: 

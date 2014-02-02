@@ -1,4 +1,5 @@
 title: "legion of tech"
+slug: legion-of-tech
 id: 203
 date: 2007-12-18 08:09:10
 tags: 

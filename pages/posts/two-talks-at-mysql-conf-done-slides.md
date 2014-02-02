@@ -1,4 +1,5 @@
 title: "Two talks at MySQL Conf done! Slides..."
+slug: two-talks-at-mysql-conf-done-slides
 id: 2946
 date: 2011-04-13 16:35:44
 tags: 

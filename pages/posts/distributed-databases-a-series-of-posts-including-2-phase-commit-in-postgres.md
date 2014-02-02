@@ -1,4 +1,5 @@
 title: "Distributed databases: a series of posts including 2-phase commit in Postgres"
+slug: distributed-databases-a-series-of-posts-including-2-phase-commit-in-postgres
 id: 4808
 date: 2013-05-20 16:19:33
 tags: 

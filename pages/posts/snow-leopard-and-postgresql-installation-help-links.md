@@ -1,4 +1,5 @@
 title: "Snow Leopard and PostgreSQL: installation help links"
+slug: snow-leopard-and-postgresql-installation-help-links
 id: 1194
 date: 2009-10-04 11:15:05
 tags: 

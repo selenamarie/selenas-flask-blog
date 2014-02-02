@@ -1,4 +1,5 @@
 title: "open season interview with mark shuttleworth"
+slug: open-season-interview-with-mark-shuttleworth
 id: 153
 date: 2007-10-08 16:05:52
 tags: 

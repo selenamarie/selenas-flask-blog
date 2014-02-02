@@ -1,4 +1,5 @@
 title: "Using logger with pg_standby"
+slug: using-logger-with-pg_standby
 id: 1887
 date: 2010-08-29 08:00:26
 tags: 

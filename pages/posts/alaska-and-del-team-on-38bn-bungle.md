@@ -1,4 +1,5 @@
 title: "alaska and del team on $38bn bungle"
+slug: alaska-and-del-team-on-38bn-bungle
 id: 63
 date: 2007-03-22 15:37:17
 tags: 

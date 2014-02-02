@@ -1,4 +1,5 @@
 title: "extreme database makeover: RT meeting recap"
+slug: extreme-database-makeover-rt-meeting-recap
 id: 225
 date: 2008-02-27 10:33:54
 tags: 

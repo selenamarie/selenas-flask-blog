@@ -1,4 +1,5 @@
 title: "select short_story from life limit 7;"
+slug: select-short_story-from-life-limit-7
 id: 602
 date: 2009-01-11 22:35:37
 tags: 

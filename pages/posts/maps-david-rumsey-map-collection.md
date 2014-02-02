@@ -1,4 +1,5 @@
 title: "maps - david rumsey map collection"
+slug: maps-david-rumsey-map-collection
 id: 65
 date: 2007-03-22 13:51:24
 tags: 

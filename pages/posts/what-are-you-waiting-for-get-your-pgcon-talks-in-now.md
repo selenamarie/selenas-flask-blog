@@ -1,4 +1,5 @@
 title: "What are you waiting for? Get your PgCon talks in now!"
+slug: what-are-you-waiting-for-get-your-pgcon-talks-in-now
 id: 609
 date: 2009-01-05 21:06:32
 tags: 

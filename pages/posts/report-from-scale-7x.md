@@ -1,4 +1,5 @@
 title: "Report from SCaLE 7x"
+slug: report-from-scale-7x
 id: 746
 date: 2009-02-22 17:31:07
 tags: 

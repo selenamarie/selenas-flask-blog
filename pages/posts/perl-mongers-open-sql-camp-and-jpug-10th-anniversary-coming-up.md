@@ -1,4 +1,5 @@
 title: "Perl Mongers, Open SQL Camp and JPUG 10th anniversary coming up"
+slug: perl-mongers-open-sql-camp-and-jpug-10th-anniversary-coming-up
 id: 1278
 date: 2009-11-08 22:21:45
 tags: 

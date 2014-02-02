@@ -1,4 +1,5 @@
 title: "solder your own wine charms"
+slug: solder-your-own-wine-charms
 id: 57
 date: 2007-03-29 11:14:37
 tags: 

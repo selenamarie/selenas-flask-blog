@@ -1,4 +1,5 @@
 title: "PostgreSQL Conference Fall 2007 - talk descriptions are up!"
+slug: postgresql-conference-fall-2007-talk-descriptions-are-up
 id: 151
 date: 2007-10-05 16:38:55
 tags: 

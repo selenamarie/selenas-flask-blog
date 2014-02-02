@@ -1,4 +1,5 @@
 title: "October is a month of many conferences"
+slug: october-is-a-month-of-many-conferences
 id: 502
 date: 2008-10-20 09:29:20
 tags: 

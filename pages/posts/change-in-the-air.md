@@ -1,4 +1,5 @@
 title: "Change in the air"
+slug: change-in-the-air
 id: 1660
 date: 2010-05-17 08:00:59
 tags: 

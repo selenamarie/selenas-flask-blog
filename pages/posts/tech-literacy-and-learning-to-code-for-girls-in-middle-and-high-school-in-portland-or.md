@@ -1,4 +1,5 @@
 title: "Tech literacy and learning to code for girls in middle and high school in Portland, OR"
+slug: tech-literacy-and-learning-to-code-for-girls-in-middle-and-high-school-in-portland-or
 id: 4742
 date: 2013-04-04 15:58:50
 tags: 

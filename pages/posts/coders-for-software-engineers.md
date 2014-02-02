@@ -1,4 +1,5 @@
 title: "Coders for software engineers"
+slug: coders-for-software-engineers
 id: 150
 date: 2007-10-03 08:09:45
 tags: 

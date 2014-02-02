@@ -1,4 +1,5 @@
 title: "What I mean when I talk about collaboration with teachers: part I"
+slug: what-i-mean-when-i-talk-about-collaboration-with-teachers-part-i
 id: 4920
 date: 2013-07-25 05:05:37
 tags: 

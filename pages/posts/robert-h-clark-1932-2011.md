@@ -1,4 +1,5 @@
 title: "Robert Clark: 1932 - 2011"
+slug: robert-h-clark-1932-2011
 id: 3190
 date: 2011-06-27 21:13:49
 tags: 

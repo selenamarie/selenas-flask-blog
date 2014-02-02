@@ -1,4 +1,5 @@
 title: "My first Flickr photo"
+slug: my-first-flickr-photo
 id: 3708
 date: 2012-02-13 08:11:51
 tags: 

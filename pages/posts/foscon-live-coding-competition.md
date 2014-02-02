@@ -1,4 +1,5 @@
 title: "FOSCON Live Coding competition"
+slug: foscon-live-coding-competition
 id: 412
 date: 2008-07-18 20:27:54
 tags: 

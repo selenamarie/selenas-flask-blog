@@ -1,4 +1,5 @@
 title: "GSoC Mentor Summit: Day 1"
+slug: gsoc-mentor-summit-day-1
 id: 2183
 date: 2010-10-23 17:53:18
 tags: 

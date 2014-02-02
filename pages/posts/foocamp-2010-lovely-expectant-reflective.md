@@ -1,4 +1,5 @@
 title: "Foocamp 2010: lovely, expectant, reflective"
+slug: foocamp-2010-lovely-expectant-reflective
 id: 1793
 date: 2010-07-13 00:00:44
 tags: 

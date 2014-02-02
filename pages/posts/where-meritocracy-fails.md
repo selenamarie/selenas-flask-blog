@@ -1,4 +1,5 @@
 title: "Where meritocracy fails"
+slug: where-meritocracy-fails
 id: 2774
 date: 2011-03-30 18:28:49
 tags: 

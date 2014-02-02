@@ -1,4 +1,5 @@
 title: "Desire paths, habits and the power of observation"
+slug: desire-paths-habits-and-the-power-of-observation
 id: 4127
 date: 2012-04-20 11:50:16
 tags: 

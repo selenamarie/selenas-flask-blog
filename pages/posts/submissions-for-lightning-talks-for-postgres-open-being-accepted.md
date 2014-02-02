@@ -1,4 +1,5 @@
 title: "Submissions for Lightning Talks for Postgres Open being accepted"
+slug: submissions-for-lightning-talks-for-postgres-open-being-accepted
 id: 4368
 date: 2012-08-15 16:38:14
 tags: 

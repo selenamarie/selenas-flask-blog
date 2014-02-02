@@ -1,4 +1,5 @@
 title: "This year is so nuts for having conferences in Portland, OR"
+slug: this-year-is-so-nuts-for-having-conferences-in-portland-or
 id: 2556
 date: 2011-02-15 19:40:14
 tags: 

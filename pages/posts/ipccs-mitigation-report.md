@@ -1,4 +1,5 @@
 title: "IPCC's mitigation report"
+slug: ipccs-mitigation-report
 id: 31
 date: 2007-05-07 16:11:15
 tags: 

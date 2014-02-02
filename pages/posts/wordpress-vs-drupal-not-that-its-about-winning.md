@@ -1,4 +1,5 @@
 title: "Wordpress vs. Drupal: Not that it's about winning"
+slug: wordpress-vs-drupal-not-that-its-about-winning
 id: 302
 date: 2008-04-15 15:53:20
 tags: 

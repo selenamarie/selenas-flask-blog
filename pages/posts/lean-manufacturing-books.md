@@ -1,4 +1,5 @@
 title: "lean manufacturing books"
+slug: lean-manufacturing-books
 id: 95
 date: 2007-06-20 14:07:25
 tags: 

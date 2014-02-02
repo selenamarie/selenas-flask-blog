@@ -1,4 +1,5 @@
 title: "A practical guide to using Alembic"
+slug: a-practical-guide-to-using-alembic
 id: 4891
 date: 2013-07-02 15:58:07
 tags: 

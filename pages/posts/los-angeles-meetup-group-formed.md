@@ -1,4 +1,5 @@
 title: "Los Angeles Meetup Group formed!"
+slug: los-angeles-meetup-group-formed
 id: 4323
 date: 2012-08-06 00:00:56
 tags: 

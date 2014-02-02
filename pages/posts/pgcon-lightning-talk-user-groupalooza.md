@@ -1,4 +1,5 @@
 title: "PgCon Lightning talk: User Groupalooza"
+slug: pgcon-lightning-talk-user-groupalooza
 id: 352
 date: 2008-05-22 23:06:04
 tags: 

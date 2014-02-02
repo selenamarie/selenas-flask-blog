@@ -1,4 +1,5 @@
 title: "Getting real about post-mortems"
+slug: getting-real-about-post-mortems
 id: 3640
 date: 2012-01-23 08:00:53
 tags: 

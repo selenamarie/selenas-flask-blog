@@ -1,4 +1,5 @@
 title: "TIL: Formatting, search_path and colorcolumn"
+slug: til-formatting-search_path-and-colorcolumn
 id: 4793
 date: 2013-05-10 14:34:24
 tags: 

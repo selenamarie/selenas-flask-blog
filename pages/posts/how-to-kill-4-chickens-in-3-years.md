@@ -1,4 +1,5 @@
 title: "How to kill 4 chickens in 3 years"
+slug: how-to-kill-4-chickens-in-3-years
 id: 736
 date: 2009-02-20 07:49:40
 tags: 

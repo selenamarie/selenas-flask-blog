@@ -1,4 +1,5 @@
 title: "Drupal + PostgreSQL: review some patches, folks!"
+slug: drupal-postgresql-review-some-patches-folks
 id: 385
 date: 2008-06-16 21:47:43
 tags: 

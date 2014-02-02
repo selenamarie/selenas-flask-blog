@@ -1,4 +1,5 @@
 title: "#PDX11: Conversation about VC, investing and trends in the Portland"
+slug: pdx11-conversation-about-vc-investing-and-trends-in-the-portland
 id: 2346
 date: 2010-12-08 07:56:18
 tags: 

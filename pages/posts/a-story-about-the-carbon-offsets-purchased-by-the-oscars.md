@@ -1,4 +1,5 @@
 title: "a story about the carbon offsets purchased by the Oscars"
+slug: a-story-about-the-carbon-offsets-purchased-by-the-oscars
 id: 94
 date: 2007-06-20 08:38:08
 tags: 

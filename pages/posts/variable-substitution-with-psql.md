@@ -1,4 +1,5 @@
 title: "Variable substitution with psql"
+slug: variable-substitution-with-psql
 id: 1901
 date: 2010-08-30 08:00:50
 tags: 

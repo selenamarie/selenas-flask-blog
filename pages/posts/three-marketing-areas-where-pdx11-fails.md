@@ -1,4 +1,5 @@
 title: "Three marketing areas where PDX11 fails"
+slug: three-marketing-areas-where-pdx11-fails
 id: 2804
 date: 2011-04-03 07:02:09
 tags: 

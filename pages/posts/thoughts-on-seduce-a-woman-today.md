@@ -1,4 +1,5 @@
 title: "thoughts on seduce a woman today"
+slug: thoughts-on-seduce-a-woman-today
 id: 100
 date: 2007-07-16 11:23:24
 tags: 

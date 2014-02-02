@@ -1,4 +1,5 @@
 title: "The end, and what happens next. "
+slug: the-end-and-what-happens-next
 id: 3204
 date: 2011-07-01 20:25:41
 tags: 

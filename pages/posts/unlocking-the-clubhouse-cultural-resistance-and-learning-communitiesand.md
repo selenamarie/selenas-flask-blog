@@ -1,4 +1,5 @@
 title: "Unlocking the clubhouse: cultural resistance and learning communities"
+slug: unlocking-the-clubhouse-cultural-resistance-and-learning-communitiesand
 id: 1448
 date: 2010-02-08 07:57:19
 tags: 

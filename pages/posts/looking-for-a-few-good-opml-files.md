@@ -1,4 +1,5 @@
 title: "Looking for a few good OPML files! "
+slug: looking-for-a-few-good-opml-files
 id: 2282
 date: 2010-12-02 08:12:49
 tags: 

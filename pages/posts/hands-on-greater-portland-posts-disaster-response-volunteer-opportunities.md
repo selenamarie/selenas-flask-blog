@@ -1,4 +1,5 @@
 title: "Hands On Greater Portland posts disaster response volunteer opportunities"
+slug: hands-on-greater-portland-posts-disaster-response-volunteer-opportunities
 id: 199
 date: 2007-12-07 17:58:06
 tags: 

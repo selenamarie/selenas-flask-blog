@@ -1,4 +1,5 @@
 title: "a meme from Dawn"
+slug: a-meme-from-dawn
 id: 207
 date: 2008-01-29 06:48:06
 tags: 

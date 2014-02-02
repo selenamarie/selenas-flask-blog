@@ -1,4 +1,5 @@
 title: "plastic is better than paper, since 1990"
+slug: plastic-is-better-than-paper-since-1990
 id: 22
 date: 2007-05-21 12:55:35
 tags: 

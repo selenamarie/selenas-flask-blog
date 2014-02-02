@@ -1,4 +1,5 @@
 title: "Thoughts on Grace Hopper"
+slug: thoughts-on-grace-hopper
 id: 2085
 date: 2010-10-01 15:08:41
 tags: 

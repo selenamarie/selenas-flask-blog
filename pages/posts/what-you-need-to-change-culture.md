@@ -1,4 +1,5 @@
 title: "What you need to change culture"
+slug: what-you-need-to-change-culture
 id: 3658
 date: 2012-01-27 08:22:24
 tags: 

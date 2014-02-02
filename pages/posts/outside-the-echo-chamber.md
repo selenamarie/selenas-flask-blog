@@ -1,4 +1,5 @@
 title: "Outside the echo chamber"
+slug: outside-the-echo-chamber
 id: 1005
 date: 2009-06-04 18:34:35
 tags: 

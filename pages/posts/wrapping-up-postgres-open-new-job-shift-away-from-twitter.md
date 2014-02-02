@@ -1,4 +1,5 @@
 title: "Wrapping up Postgres Open, new job, shift away from twitter"
+slug: wrapping-up-postgres-open-new-job-shift-away-from-twitter
 id: 4467
 date: 2012-09-22 19:45:10
 tags: 

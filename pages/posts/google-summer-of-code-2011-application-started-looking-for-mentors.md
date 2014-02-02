@@ -1,4 +1,5 @@
 title: "Google Summer of Code 2011 application started! Looking for mentors."
+slug: google-summer-of-code-2011-application-started-looking-for-mentors
 id: 2698
 date: 2011-03-07 22:49:08
 tags: 

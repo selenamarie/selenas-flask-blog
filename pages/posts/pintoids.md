@@ -1,4 +1,5 @@
 title: "pintoids"
+slug: pintoids
 id: 52
 date: 2007-04-04 14:51:37
 tags: 
