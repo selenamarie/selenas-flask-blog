@@ -23,26 +23,38 @@ fg.description('A blog about postgres, open source and the web')
 
 freezer = Freezer(app)
 
+def generate_feed(items, tag=None):
+    for item in items:
+        fe = fg.add_entry()
+        #fe.id('http://chesnok.com/daily/'. item.meta.get('slug', ''))
+        fe.author({'name':'Selena Deckelmann', 'email':'selena@chesnok.com'})
+        fe.title(item.meta.get('title', ''))
+        if tag:
+            fe.link(href='http://chesnok.com/daily/category/' + tag + '/feed/', rel='self')
+        else:
+            fe.link(href='http://chesnok.com/daily/feed/', rel='self')
+    return fg.rss_str(pretty=True)
+
 @app.route('/daily/feed/')
 def feed():
-    pass
+    sorted_pages = sorted(pages, key = lambda tagged_page:tagged_page.meta.get("date", "-1"), reverse=True)
+    return generate_feed(sorted_pages[:10])
 
 @app.route('/daily/category/python/feed/')
 def feed_python():
-    pass
+    tag = 'python'
+    tagged = [p for p in pages if (p.meta.get('categories') and tag in p.meta.get('categories', []))]
+    tagged = sorted(tagged, key = lambda tagged_page:tagged_page.meta.get("date", "-1"), reverse=True)
+
+    return generate_feed(tagged[:10], tag)
 
 @app.route('/daily/category/postgresql/feed/')
 def feed_postgres():
     tag = 'postgresql'
     tagged = [p for p in pages if (p.meta.get('categories') and tag in p.meta.get('categories', []))]
     tagged = sorted(tagged, key = lambda tagged_page:tagged_page.meta.get("date", "-1"), reverse=True)
-    for item in tagged[:10]:
-        fe = fg.add_entry()
-        #fe.id('http://chesnok.com/daily/'. item.meta.get('slug', ''))
-        fe.author({'name':'Selena Deckelmann', 'email':'selena@chesnok.com'})
-        fe.title(item.meta.get('title', ''))
-        fe.link(href='http://chesnok.com/daily/category/postgresql/feed/', rel='self')
-    return fg.rss_str(pretty=True)
+
+    return generate_feed(tagged[:10], tag)
 
 @app.route('/')
 def index():
