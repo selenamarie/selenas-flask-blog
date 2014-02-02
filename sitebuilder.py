@@ -20,8 +20,11 @@ freezer = Freezer(app)
 
 @app.route('/')
 def index():
-    mypages = sorted(pages, key = lambda page:page.meta.get("date", datetime.datetime.strptime('1970-01-01', '%Y-%m-%d').date()), reverse = True )
-    return render_template('index.html', pages=mypages)
+    mypages = sorted(pages,
+        key=lambda page:page.meta.get("date",
+            datetime.datetime.strptime('1970-01-01', '%Y-%m-%d').date()),
+        reverse=True )
+    return render_template('index.html', pages=mypages[:10])
 
 @app.route('/daily/posts/<path:path>/')
 def posts(path):
@@ -32,7 +35,8 @@ def posts(path):
 def tag(tag):
     tagged = [p for p in pages if (p.meta.get('tags') and tag in p.meta.get('tags', []))
             or (p.meta.get('categories') and tag in p.meta.get('categories', []))]
-    tagged = sorted(tagged, key = lambda tagged_page:tagged_page.meta.get("date", "-1"), reverse = True )
+    tagged = sorted(tagged, key = lambda tagged_page:tagged_page.meta.get("date", "-1"),
+        reverse=True )
     return render_template('tag.html', pages=tagged, tag=tag)
 
 @app.route('/daily/<int:year>/<int:month>/<int:day>/<string:slug>/')
