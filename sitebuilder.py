@@ -7,6 +7,7 @@ import datetime
 from flask import Flask, render_template, url_for, request
 from flask_flatpages import FlatPages
 from flask_frozen import Freezer
+from feedgen.feed import FeedGenerator
 
 DEBUG = True
 FLATPAGES_AUTO_RELOAD = DEBUG
@@ -15,8 +16,33 @@ FLATPAGES_EXTENSION = '.md'
 app = Flask(__name__)
 app.config.from_object(__name__)
 pages = FlatPages(app)
+fg = FeedGenerator()
+fg.title("Selena Deckelmann's Blog Feed")
+fg.link(href='http://chesnok.com/daily', rel='self')
+fg.description('A blog about postgres, open source and the web')
 
 freezer = Freezer(app)
+
+@app.route('/daily/feed/')
+def feed():
+    pass
+
+@app.route('/daily/category/python/feed/')
+def feed_python():
+    pass
+
+@app.route('/daily/category/postgresql/feed/')
+def feed_postgres():
+    tag = 'postgresql'
+    tagged = [p for p in pages if (p.meta.get('categories') and tag in p.meta.get('categories', []))]
+    tagged = sorted(tagged, key = lambda tagged_page:tagged_page.meta.get("date", "-1"), reverse=True)
+    for item in tagged[:10]:
+        fe = fg.add_entry()
+        #fe.id('http://chesnok.com/daily/'. item.meta.get('slug', ''))
+        fe.author({'name':'Selena Deckelmann', 'email':'selena@chesnok.com'})
+        fe.title(item.meta.get('title', ''))
+        fe.link(href='http://chesnok.com/daily/category/postgresql/feed/', rel='self')
+    return fg.rss_str(pretty=True)
 
 @app.route('/')
 def index():
