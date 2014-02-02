@@ -13,6 +13,14 @@
             {% endfor %}
         {% endif %}
     {% endif %}
+    {% if page.meta.categories %}
+        | Categories: 
+        {% if page.meta.categories|length %}
+            {% for page_tag in page.meta.categories %}
+                <a href="{{ url_for("tag", tag=page_tag) }}">{{ page_tag }}</a>
+            {% endfor %}
+        {% endif %}
+    {% endif %}
     </li>
 {% else %}
     <li>No page.</li>
