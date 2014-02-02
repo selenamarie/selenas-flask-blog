@@ -11,6 +11,14 @@
             {% endfor %}
         {% endif %}
     </i><br/>
+    <i>
+        {% if page.meta.categories and page.meta.categories|length %}
+            categories:
+            {% for page_tag in page.meta.categories %}
+                <a href="{{ url_for("tag", tag=page_tag) }}">{{ page_tag }}</a>
+            {% endfor %}
+        {% endif %}
+    </i></br>
 
     {{ page.html|safe }}
 

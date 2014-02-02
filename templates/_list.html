@@ -5,21 +5,17 @@
     {% if page.meta.date %}
         <i>{{ page.meta.date.strftime('%b %d, %Y') }}</i>
     {% endif %}
-    {% if page.meta.tags %}
-        {% if page.meta.tags|length %}
-            | Tagged:
-            {% for page_tag in page.meta.tags %}
-                <a href="{{ url_for("tag", tag=page_tag) }}">{{ page_tag }}</a>
-            {% endfor %}
-        {% endif %}
+    {% if page.meta.tags and page.meta.tags|length %}
+        | Tagged:
+        {% for page_tag in page.meta.tags %}
+            <a href="{{ url_for("tag", tag=page_tag) }}">{{ page_tag }}</a>
+        {% endfor %}
     {% endif %}
-    {% if page.meta.categories %}
+    {% if page.meta.categories and page.meta.categories|length %}
         | Categories: 
-        {% if page.meta.categories|length %}
-            {% for page_tag in page.meta.categories %}
-                <a href="{{ url_for("tag", tag=page_tag) }}">{{ page_tag }}</a>
-            {% endfor %}
-        {% endif %}
+        {% for page_tag in page.meta.categories %}
+            <a href="{{ url_for("tag", tag=page_tag) }}">{{ page_tag }}</a>
+        {% endfor %}
     {% endif %}
     </li>
 {% else %}
