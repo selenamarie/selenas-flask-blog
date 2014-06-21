@@ -1,7 +1,7 @@
 title: "Personal email sabbatical, July 10 - October 15 2014"
 slug: personal-email-sabbatical-july-10-october-15-2014
 id: 5240
-date: 2014-05-2014 11:11:00
+date: 2014-05-26 11:11:00
 tags:
 - email sabbatical
 categories:

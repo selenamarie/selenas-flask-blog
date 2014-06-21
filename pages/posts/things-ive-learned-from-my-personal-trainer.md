@@ -1,4 +1,4 @@
-title: "Things I\'ve learned from my personal trainer"
+title: "Things I've learned from my personal trainer"
 slug: things-ive-learned-from-my-personal-trainer
 id: 5234
 date: 2014-05-23 13:58:00

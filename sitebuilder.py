@@ -60,8 +60,8 @@ def feed_postgres():
 def index():
     mypages = sorted(pages,
         key=lambda page:page.meta.get("date",
-            datetime.datetime.strptime('1970-01-01', '%Y-%m-%d').date()),
-        reverse=True )
+            datetime.datetime.strptime('1970-01-01 00:00:00', '%Y-%m-%d %H:%M:%S')),
+        reverse=True)
     return render_template('index.html', pages=mypages[:10])
 
 @app.route('/daily/posts/<path:path>/')
