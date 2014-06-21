@@ -33,7 +33,7 @@ audio:not([controls]) { display: none; }
 [hidden] { display: none; }
 
 html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
-body { margin: 0; font-size: normal 100% "Lucida Sans Unicode", "Lucida Grande", sans-serif; line-height: 1.231; }
+body { margin: 0; font-size: normal 115% "Lucida Sans Unicode", "Lucida Grande", sans-serif; line-height: 1.231; }
 body, button, input, select, textarea { color: #222; }
 
 ::-moz-selection { background: #555; color: #fff; text-shadow: none; }
@@ -420,7 +420,7 @@ body {
 /* Navigation
 ------------------------------------------------------------- */
 .main-navigation {
-	width: 75%;
+	width: 100%;
 }
 .main-navigation ul {
 	border-top: 1px solid #ddd;
@@ -435,7 +435,7 @@ body {
 }
 .main-navigation a {
 	display: block;
-	font-size: 125%;
+	font-size: 140%;
 	margin: 0;
 	padding: 8px;
 	text-decoration: none;
