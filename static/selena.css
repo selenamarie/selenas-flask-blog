@@ -33,8 +33,8 @@ audio:not([controls]) { display: none; }
 [hidden] { display: none; }
 
 html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
-body { margin: 0; font-size: 15px; line-height: 1.231; }
-body, button, input, select, textarea { font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; color: #222; }
+body { margin: 0; font-size: normal 100% "Lucida Sans Unicode", "Lucida Grande", sans-serif; line-height: 1.231; }
+body, button, input, select, textarea { color: #222; }
 
 ::-moz-selection { background: #555; color: #fff; text-shadow: none; }
 ::selection { background: #555; color: #fff; text-shadow: none; }
@@ -46,7 +46,7 @@ dfn { font-style: italic; }
 hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
 ins { background: #ff9; color: #000; text-decoration: none; }
 mark { background: #ff0; color: #000; font-style: italic; font-weight: bold; }
-pre, code, kbd, samp { font-family: monospace, monospace; _font-family: 'courier new', monospace; font-size: 1em; overflow: scroll;}
+pre, code, kbd, samp { font-family: monospace, monospace; _font-family: 'courier new', monospace; font-size: normal 100%; overflow: scroll;}
 #pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; }
 q { quotes: none; }
 q:before, q:after { content: ""; content: none; }
@@ -88,22 +88,22 @@ h1, h2, h3, h4, h5, h6 {
 	text-transform:uppercase
 }
 h1 {
-  font-size: 26px;
+  font-size: 170%;
 }
 h2 {
-  font-size: 23px;
+  font-size: 150%;
 }
 h3 {
-  font-size: 20px;
+  font-size: 135%;
 }
 h4 {
-  font-size: 16px;
+  font-size: 125%;
 }
 h5 {
-  font-size: 14px;
+  font-size: 100%;
 }
 h6 {
-  font-size: 13px;
+  font-size: 90%;
 }
 
 hr {
@@ -308,7 +308,7 @@ object {
 	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
 	clear: both;
-	font-size: 12px;
+	font-size: 90%;
 	display: block;
 	margin: 20px 0;
 	padding: 5px 0;
@@ -390,7 +390,7 @@ body {
 	clear: none;
 	color: #666;
 	float: left;
-	font-size: 13px;
+	font-size: 100%;
 	font-weight: normal;
 	font-family: Georgia, serif;
 	font-style: italic;
@@ -405,7 +405,7 @@ body {
 	width: 850px;
 }
 .site-title a {
-	font-size: 35px;
+	font-size: 175%;
 }
 .page-header {
 	margin:0 0 20px;
@@ -420,7 +420,7 @@ body {
 /* Navigation
 ------------------------------------------------------------- */
 .main-navigation {
-	width: 850px;
+	width: 75%;
 }
 .main-navigation ul {
 	border-top: 1px solid #ddd;
@@ -435,7 +435,7 @@ body {
 }
 .main-navigation a {
 	display: block;
-	font-size: 14px;
+	font-size: 125%;
 	margin: 0;
 	padding: 8px;
 	text-decoration: none;
@@ -466,7 +466,7 @@ body {
 .main-navigation ul ul a {
 	background: none;
 	color: #fff;
-	font-size: 13px;
+	font-size: 125%;
 	margin: 0;
 	padding: 8px;
 	text-shadow: none;
@@ -507,7 +507,7 @@ body {
 /* Small menu */
 .menu-toggle {
 	cursor: pointer;
-	font-size: 18px;
+	font-size: 140%;
 	margin: 0;
 }
 .main-small-navigation .menu {
@@ -550,7 +550,7 @@ body {
 	clear: both;
 }
 .entry-meta {
-    font-size: .75em;
+    font-size: 75%;
 }
 .sticky .entry-meta {
 	padding-top:10px;
@@ -588,7 +588,7 @@ body {
 }
 .entry-title {
 	color: #09c;
-	font-size: 20px;
+	font-size: 125%;
 	letter-spacing: 1px;
 	line-height: 1.8em;
 	margin:0;
@@ -718,13 +718,13 @@ body {
 .format-quote .entry-meta .post-format:before {
 	content:'\201C';
 	font-family: Times, "Times New Roman", sans-serif;
-	font-size: 28px;
+	font-size: 175%;
 	line-height: 1;
 }
 .format-quote .entry-content blockquote,
 .format-aside .entry-content {
-	font-size: 20px;
-	line-height:1.8em
+	font-size: 150%;
+	line-height:1.8em;
 }
 .format-link .entry-content {
 	margin-top: 0;
@@ -741,7 +741,7 @@ body {
 	display: none !important;
 }
 
-	
+
 /* Comments
 ------------------------------------------------------- */
 #comments {
@@ -752,7 +752,7 @@ body {
 	margin:0;
 	padding-top:25px;
 	background:url(images/line-pattern.png) repeat-x;
-	font-size:17px;
+	font-size: 125%;
 	line-height:1.5em
 }
 #comments .comments-title span {
@@ -878,7 +878,7 @@ body {
 #respond input[type="text"], #respond textarea {
 	border: 1px solid #ccc;
 	padding: 10px;
-	font-size:13px;
+	font-size: 100%;
 	color:#666
 }
 #respond input[type="text"]:focus, #respond textarea:focus {
@@ -897,7 +897,7 @@ body {
 	border: none;
 	color: #fff;
 	cursor: pointer;
-	font-size: 14px;
+	font-size: 100%;
 	font-family:'Oswald',"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	padding: 5px 22px;
 	/* text-shadow: 0 -1px 0 rgba(0,0,0,0.3); */
@@ -915,7 +915,7 @@ body {
 }
 
 #respond .comment-notes, #respond .logged-in-as {
-	font-size: 13px;
+	font-size: 100%;
 	font-style:italic
 }
 #respond p {
@@ -929,7 +929,7 @@ body {
 	text-decoration: none;
 	color: #888;
 	display: block;
-	font-size: 10px;
+	font-size: 75%;
 	font-weight: normal;
 	line-height: 2.2em;
 	letter-spacing: 0.05em;
@@ -952,7 +952,7 @@ body {
 	background:none
 }
 #respond p {
-	font-size: 12px;
+	font-size: 100%;
 }
 p.comment-form-comment {
 	margin: 0;
@@ -980,7 +980,7 @@ p.comment-form-comment {
 }
 .widget-title {
 	margin:0 0 20px;
-	font-size:16px;
+	font-size: 150%;
 }
 .widget ul {
 	margin:0;
@@ -1138,8 +1138,8 @@ Responsive-ness
 /* Mobile (landscape)
    Note: Design for a width of 480px
 ------------------------------------------------------------- */
-@media only screen and ( min-width: 574px ) and ( max-width: 861px ) {
-	#page {width:480px}
+@media only screen and ( min-width: 40.5em ) and ( max-width: 90em ) {
+	#page {width: 40.5em;}
 	.side, .site-description {
 		width:120px;
 	}
@@ -1183,10 +1183,10 @@ Responsive-ness
 	}
 }
 
-@media only screen and ( max-width: 574px ) {
-	#page {width:300px}
+@media only screen and ( max-width: 40.5em ) {
+	#page {width: 40.5em;}
 	.side, .wide, .site-description, .site-title {
-		width:300px;
+		width: 30em;
 		float:none
 	}
 	#masthead, .entry-meta, .entry-title, #page-nav {
