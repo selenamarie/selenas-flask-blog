@@ -7,9 +7,10 @@ I speak at technical conferences regularly. My goal is to only be away from home
 
 2014:
 
-*   Invited talk in SF, mid-March
-*   [Pycon 2014][1] - Two accepted talks, April 9-17
-*   [Monitorama][2], May 5-7
+*   [What beginners Teach us][1], Passion Projects, March 13
+*   [Pycon 2014][2] - [The Python Pipeline: Why you should reach out to K-12 teachers and how to do it][3] and [Sane Schema Migrations with Alembic and SQLAlchemy][4], April 9-17
+*   [Monitorama][5], May 5-7
+*   PDXPUG, About Crontabber, May 15
 
 2013:
 
