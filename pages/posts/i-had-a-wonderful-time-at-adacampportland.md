@@ -25,7 +25,7 @@ I brain dumped a list of the things that I want to write about:
 
 Watch this space for a bunch of writing very soon!!
 
-Thanks to [Mozilla][7], I hosted 10 attendees for dinner Saturday evening. We had wonderful conversations about workplace politics, the leaky pipeline problem, career advancement, different kinds of gendered branding for feminist organizations, compromise, great food in Portland, feminist reviews of the science fiction we read as girls, http://uncomfortableworf.tumblr.com/ and memes. Thank you so much to the women who joined!
+Thanks to [Mozilla][7], I hosted 10 attendees for dinner Saturday evening. We had wonderful conversations about workplace politics, the leaky pipeline problem, career advancement, different kinds of gendered branding for feminist organizations, compromise, great food in Portland, feminist reviews of the science fiction we read as girls, [uncomfortableworf.tumblr.com][8] and memes. Thank you so much to the women who joined!
 
 The next AdaCamp will be in [Berlin in October and Bangalore in November][5]. I'm disappointed that I likely will not be able to attend either. I highly recommend both events!
 
@@ -36,3 +36,4 @@ The next AdaCamp will be in [Berlin in October and Bangalore in November][5]. I'
  [5]: https://adainitiative.org/2014/04/adacamp-is-coming-to-berlin-and-bangalore-in-2014/
  [6]: http://portland.adacamp.org
  [7]: http://mozilla.com
+ [8]: http://uncomfortableworf.tumblr.com
