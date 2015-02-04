@@ -1,7 +1,7 @@
 title: "Email anxiety and the form letter"
 slug: email-anxiety-and-the-form-letter
 id: 5245
-date: 2015-02-04 14:00:00 00:00:00
+date: 2015-02-04 14:00:00
 tags: 
 - email
 - formletters
