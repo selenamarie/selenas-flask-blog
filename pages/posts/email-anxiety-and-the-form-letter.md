@@ -19,22 +19,30 @@ The reason why form letters might help you has to do with [decision fatigue](htt
 
 Here is the first letter for saying no to volunteer requests and responding to people I don\'t know who are asking for me to share a job posting: 
 
-    Your project seems very worthwhile! I unfortunately don\'t have time for additional volunteer work at this time.
+> Your project seems very worthwhile! I unfortunately don\'t have time for additional volunteer work at this time.
+> 
+> My current volunteer engagements include:
+> 
+> [Python Software Foundation](http://python.org/psf) Director <psf-board@python.org>
+> [Ada Initiative](http://adainitiative.org) Advisory Board <info@adainitiative.org>
+> [USENIX LISA 2015 program committee](https://www.usenix.org/conference/lisa15)
+> [PyLadies](http://pyladies.org) Organizing Team <pyladies@python.org>
+> Major Contributor to [PostgreSQL](http://postgresql.org) <pgsql-general@postgresql.org>
+> 
+> If what you\'re working on seems like a good fit for one of those organizations, please feel free to contact them at the email or web address above.
+> 
+> I only forward requests for paid labor on to advisory boards and colleagues. If you\'ve asked about a paid position, I\'ve forwarded your message along and will be in touch if someone in my personal circle responds.
+> 
+> My favorite recruiter if you\'re seeking to hire someone in Portland, OR is Aimee Levens <imprintpdx@gmail.com>.
+> 
+> Thanks again for getting in touch and I\'m sorry I can\'t be of more help at this time.
 
-    My current volunteer engagements include:
+The key elements for this email were: 
 
-    [Python Software Foundation](http://python.org/psf) Director <psf-board@python.org>
-    [Ada Initiative](http://adainitiative.org) Advisory Board <info@adainitiative.org>
-    [USENIX LISA 2015 program committee](https://www.usenix.org/conference/lisa15)
-    [PyLadies](http://pyladies.org) Organizing Team <pyladies@python.org>
-    Major Contributor to [PostgreSQL](http://postgresql.org) <pgsql-general@postgresql.org>
-
-    If what you\'re working on seems like a good fit for one of those organizations, please feel free to contact them at the email or web address above.
-
-    I only forward requests for paid labor on to advisory boards and colleagues. If you\'ve asked about a paid position, I\'ve forwarded your message along and will be in touch if someone in my personal circle responds.
-
-    My favorite recruiter if you\'re seeking to hire someone in Portland, OR is Aimee Levens <imprintpdx@gmail.com>.
-
-    Thanks again for getting in touch and I\'m sorry I can\'t be of more help at this time.
+* A positive statement that thanks the sender for the effort they put into their email
+* A list of possible volunteer organizations they can contact that I support
+* A couple caveats for common requests related to volunteer work - a big request being recruiting
+* A suggestion for a great recruiter in Portland. 
+* A final thank you
 
 I also wrote a form letter for job pitches that I use as a base that I can customize. And I have a template for responding to typical Postgres community questions I receive.
