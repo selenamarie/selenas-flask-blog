@@ -33,7 +33,7 @@ Here is the first letter for saying no to volunteer requests and responding to p
 > 
 > If what you're working on seems like a good fit for one of those organizations, please feel free to contact them at the email or web address above.
 > 
-> I only forward requests for paid labor on to advisory boards and colleagues. If you've asked about a paid position, I've forwarded your message along and will be in touch if someone in my personal circle responds.
+> I only forward requests for paid labor to colleagues. If you've asked about a paid position, I've forwarded your message along and will be in touch if someone in my personal circle responds.
 > 
 > My favorite recruiter if you're seeking to hire someone in Portland, OR is Aimee Levens.
 > 
