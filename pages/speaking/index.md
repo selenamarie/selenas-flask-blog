@@ -3,7 +3,13 @@ date: 2011-05-30 15:15:20
 
 I speak at technical conferences regularly. My goal is to only be away from home and family one week per quarter.
 
-2014 is booked for talks outside of Portland, OR. I may be available for local talks February through June.
+2015 is booked for talks outside of Portland, OR. I may be available for local talks July through December.
+
+2015:
+
+* Code4Lib, Portland
+* Seattle Code Fellows, Seattle
+* PyCon, Montreal, Canada - poster session
 
 2014:
 

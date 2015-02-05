@@ -30,7 +30,7 @@ Here is the first letter for saying no to volunteer requests and responding to p
 > * [Python Software Foundation](http://python.org/psf) Director, psf-board@python.org
 > * [Ada Initiative](http://adainitiative.org) Advisory Board, info@adainitiative.org
 > * [USENIX LISA 2015 program committee](https://www.usenix.org/conference/lisa15)
-> * [PyLadies](http://pyladies.org) Organizing Team, pyladies@python.org
+> * [PyLadies](http://pyladies.com) Organizing Team, pyladies@python.org
 > * Major Contributor to [PostgreSQL](http://postgresql.org), pgsql-general@postgresql.org
 > 
 > If what you're working on seems like a good fit for one of those organizations, please feel free to contact them at the email or web address above.
