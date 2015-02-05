@@ -33,7 +33,7 @@ audio:not([controls]) { display: none; }
 [hidden] { display: none; }
 
 html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
-body { margin: 0; font-size: normal 115% "Lucida Sans Unicode", "Lucida Grande", sans-serif; line-height: 1.231; }
+body { margin: 0; font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; line-height: 1.231; }
 body, button, input, select, textarea { color: #222; }
 
 ::-moz-selection { background: #555; color: #fff; text-shadow: none; }
@@ -356,9 +356,9 @@ body {
 #page {
 	width:50%;
 	margin:0 auto;
-	padding:20px;
+	padding:2em;
 	background:#f5f5f5;
-    font-size:1.8em;
+    font-size:1.4em;
 }
 #primary {
 	padding-bottom: 40px
@@ -1151,26 +1151,6 @@ Responsive-ness
 		width: auto;
 		margin: 0;
 		text-align: center;
-	}
-	.comment-block {
-		width:auto;
-		float:none
-	}
-	.commentlist .children {
-		margin:20px 0 0
-	}
-	#respond #reply-title {
-		position:relative;
-		left:0;
-		top:0;
-		width:auto;
-		padding-top:0;
-		margin:0 0 10px;
-		background:none;
-		z-index:2
-	}
-	#respond {
-		margin:0
 	}
 	.widget-left, .widget-middle, .widget-right {
 		width:480px;
