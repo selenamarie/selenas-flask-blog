@@ -23,7 +23,7 @@ Form letters might help with [decision fatigue](http://en.wikipedia.org/wiki/Dec
 
 Here is the first letter for saying no to volunteer requests and responding to people I don't know who are asking for me to share a job posting: 
 
-> Your project seems very worthwhile! I unfortunately don't have time for additional volunteer work at this time.
+> Your project seems very worthwhile! I do not have time for additional volunteer work at this time.
 > 
 > My current volunteer engagements include:
 > 
@@ -34,6 +34,8 @@ Here is the first letter for saying no to volunteer requests and responding to p
 > * Major Contributor to [PostgreSQL](http://postgresql.org), pgsql-general@postgresql.org
 > 
 > If what you're working on seems like a good fit for one of those organizations, please feel free to contact them at the email or web address above.
+> 
+> If you contacted me for a speaking engagement, I only consider speaking requests that pay me a market-competitive wage, have a code of conduct, offer childcare and provide for all expenses.
 > 
 > I only forward requests for paid labor to colleagues. If you've asked about a paid position, I've forwarded your message along and will be in touch if someone in my personal circle responds.
 > 
