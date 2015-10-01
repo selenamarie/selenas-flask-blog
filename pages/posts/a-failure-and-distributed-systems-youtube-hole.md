@@ -20,7 +20,7 @@ This kicked things off for me.. I remember this when it came out and was really 
 
 * [Elisabeth Hendrickson Discusses Agile Testing - video (2012)](http://continuousdelivery.com/2012/10/elisabeth-hendrickson-discusses-agile-testing/)
 
-This brought back the testing research I read when I was giving talks about failure, and also shared some things I didn't know about how QA's impact on organizations. Basically, unintended consequences of siloing QA off from dev and a strong recommendation to not have a separate org (and of course it's an argument for agile). In practice, I find that build and test automation requires specialized skills. Maybe orgs can think of these specialists as coaches for the rest of the people in the
+This brought to mind the testing research I read when I was giving talks about failure, and also shared some things I didn't know about concerning QA's impact on organizations. Basically, unintended consequences of siloing QA off from dev and a strong recommendation to *not* have a separate org (and of course it's an argument for agile). In practice, I find that build and test automation requires specialized skills. Maybe orgs can think of these specialists as coaches for the rest of the people in the
 org?  The problem I see there is that we've all got a need to create, not just coach and teach. How do you find balance?
 
 * [Debate: What is the Role of an Operations Team in Software Development Today? (2010)](http://www.infoq.com/news/2010/04/debate-role-of-ops)
