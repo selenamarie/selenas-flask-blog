@@ -10,3 +10,7 @@ Features:
 - Attempts to freeze pages into text files [this is broken unless you comment out some of the routes]
 - Different template for 'pages' (no date) and 'posts' (date, tags, categories)
 - Procfile for Heroku specifies gunicorn
+
+[ ] Blog more
+[ ] Do things
+[ ] Do them well
