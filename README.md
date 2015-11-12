@@ -11,6 +11,7 @@ Features:
 - Different template for 'pages' (no date) and 'posts' (date, tags, categories)
 - Procfile for Heroku specifies gunicorn
 
-[ ] Blog more
-[ ] Do things
-[ ] Do them well
+My List of TODOs
+- [ ] Blog more
+- [ ] Do things
+- [ ] Do them well
